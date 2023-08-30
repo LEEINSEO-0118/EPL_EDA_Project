@@ -1,528 +1,516 @@
-,No.,Year,Name,Age,Team,Position
-1648,1354,2017,Philippe Coutinho,25,Liverpool,Midfielder
-1649,1508,2017,Sergio Aguero,29,Man City,Forward
-1650,935,2017,Kevin De Bruyne,26,Man City,Midfielder
-1651,637,2017,Henri Saivet,26,Newcastle,Midfielder
-1652,1209,2017,Mohamed Salah,25,Liverpool,Forward
-1653,450,2017,Eden Hazard,26,Chelsea,Forward
-1654,622,2017,Harry Kane,24,Tottenham,Forward
-1655,385,2017,David Silva,31,Man City,Midfielder
-1656,74,2017,Alexis Sanchez,28,Man Utd,Forward
-1657,1366,2017,Raheem Sterling,22,Man City,Forward
-1658,1000,2017,Leroy Sane,21,Man City,Forward
-1659,1334,2017,Paulo Gazzaniga,25,Tottenham,Goalkeeper
-1660,9,2017,Aaron Wan-Bissaka,19,Crystal Palace,Defender
-1661,1331,2017,Paul Pogba,24,Man Utd,Midfielder
-1662,524,2017,Fernandinho,32,Man City,Midfielder
-1663,758,2017,Jeremy Pied,28,Southampton,Defender
-1664,288,2017,Christian Eriksen,25,Tottenham,Midfielder
-1665,1412,2017,Roberto Firmino,25,Liverpool,Forward
-1666,1524,2017,Shkodran Mustafi,25,Arsenal,Defender
-1667,1694,2017,Wilfried Zaha,24,Crystal Palace,Forward
-1668,1672,2017,Virgil van Dijk,26,Liverpool,Defender
-1669,638,2017,Henrikh Mkhitaryan,28,Arsenal,Midfielder
-1670,1512,2017,Sergio Romero,30,Man Utd,Goalkeeper
-1671,74,2017,Alexis Sanchez,28,Arsenal,Forward
-1672,1357,2017,Pierre-Emerick Aubameyang,28,Arsenal,Forward
-1673,718,2017,James Tomkins,28,Crystal Palace,Defender
-1674,1426,2017,Romelu Lukaku,24,Man Utd,Forward
-1675,1404,2017,Riyad Mahrez,26,Leicester,Forward
-1676,1505,2017,Serge Aurier,24,Tottenham,Defender
-1677,481,2017,Emre Can,23,Liverpool,Midfielder
-1678,974,2017,Kyle Walker-Peters,20,Tottenham,Defender
-1679,1455,2017,Sadio Mane,25,Liverpool,Forward
-1680,7,2017,Aaron Ramsey,26,Arsenal,Midfielder
-1681,729,2017,Jan Vertonghen,30,Tottenham,Defender
-1682,1175,2017,Mesut Ozil,28,Arsenal,Midfielder
-1683,1226,2017,N'Golo Kante,26,Chelsea,Midfielder
-1684,284,2017,Chris Smalling,27,Man Utd,Defender
-1685,717,2017,James Tarkowski,24,Burnley,Defender
-1686,1351,2017,Phil Jones,25,Man Utd,Defender
-1687,1259,2017,Nemanja Matic,29,Man Utd,Midfielder
-1688,260,2017,Cesar Azpilicueta,28,Chelsea,Defender
-1689,1515,2017,Shane Duffy,25,Brighton,Defender
-1690,937,2017,Kevin Long,27,Burnley,Defender
-1691,507,2017,Fabian Delph,27,Man City,Midfielder
-1692,1691,2017,Wilfred Ndidi,20,Leicester,Midfielder
-1693,1266,2017,Nicolas Otamendi,29,Man City,Defender
-1694,1084,2017,Marcos Alonso,26,Chelsea,Defender
-1695,1230,2017,Nacho Monreal,31,Arsenal,Defender
-1696,1595,2017,Theo Walcott,28,Everton,Forward
-1697,173,2017,Ben Mee,27,Burnley,Defender
-1698,968,2017,Kurt Zouma,22,Stoke,Defender
-1699,151,2017,Ashley Young,32,Man Utd,Defender
-1700,114,2017,Andros Townsend,26,Crystal Palace,Midfielder
-1701,1285,2017,Oleksandr Zinchenko,20,Man City,Defender
-1702,789,2017,Joe Gomez,20,Liverpool,Defender
-1703,294,2017,Christopher Schindler,27,Huddersfield,Defender
-1704,1406,2017,Robert Brady,25,Burnley,Midfielder
-1705,67,2017,Alexander Soerloth,21,Crystal Palace,Forward
-1706,261,2017,Cesc Fabregas,30,Chelsea,Midfielder
-1707,1672,2017,Virgil van Dijk,26,Southampton,Defender
-1708,1452,2017,Ryan Shawcross,29,Stoke,Defender
-1709,154,2017,Aymeric Laporte,23,Man City,Defender
-1710,401,2017,Dele Alli,21,Tottenham,Midfielder
-1711,70,2017,Alexandre Lacazette,26,Arsenal,Forward
-1712,166,2017,Ben Davies,24,Tottenham,Defender
-1713,1434,2017,Ruben Loftus-Cheek,21,Crystal Palace,Midfielder
-1714,978,2017,Laurent Koscielny,31,Arsenal,Defender
-1715,623,2017,Harry Maguire,24,Leicester,Defender
-1716,1100,2017,Marko Arnautovic,28,West Ham,Forward
-1717,135,2017,Antonio Valencia,32,Man Utd,Defender
-1718,976,2017,Lasse Soerensen,17,Stoke,Midfielder
-1719,535,2017,Florian Lejeune,26,Newcastle,Defender
-1720,973,2017,Kyle Walker,27,Man City,Defender
-1721,555,2017,Gabriel Jesus,20,Man City,Forward
-1722,1070,2017,Manuel Lanzini,24,West Ham,Midfielder
-1723,700,2017,Jamaal Lascelles,23,Newcastle,Defender
-1724,1671,2017,Vincent Kompany,31,Man City,Defender
-1725,954,2017,Kieran Trippier,26,Tottenham,Defender
-1726,486,2017,Eric Bailly,23,Man Utd,Defender
-1727,145,2017,Arthur Masuaku,23,West Ham,Defender
-1728,1007,2017,Lewis Dunk,25,Brighton,Defender
-1729,811,2017,Johann Gudmundsson,26,Burnley,Midfielder
-1730,117,2017,Andy Robertson,23,Liverpool,Defender
-1731,320,2017,Craig Dawson,27,WBA,Defender
-1732,1591,2017,Terence Kongolo,23,Huddersfield,Defender
-1733,601,2017,Granit Xhaka,24,Arsenal,Midfielder
-1734,157,2017,Badou Ndiaye,26,Stoke,Midfielder
-1735,1638,2017,Trent Alexander-Arnold,18,Liverpool,Defender
-1736,1039,2017,Luka Milivojevic,26,Crystal Palace,Midfielder
-1737,1703,2017,Willian,29,Chelsea,Forward
-1738,11,2017,Abdoulaye Doucoure,24,Watford,Midfielder
-1739,400,2017,Dejan Lovren,28,Liverpool,Defender
-1740,1540,2017,Son Heung-Min,25,Tottenham,Forward
-1741,38,2017,Ahmed Hegazy,26,WBA,Defender
-1742,725,2017,Jamie Vardy,30,Leicester,Forward
-1743,328,2017,Cuco Martina,27,Everton,Defender
-1744,1149,2017,Matthew Lowton,28,Burnley,Defender
-1745,1143,2017,Matt Targett,21,Southampton,Defender
-1746,1530,2017,Simon Francis,32,Bournemouth,Defender
-1747,638,2017,Henrikh Mkhitaryan,28,Man Utd,Midfielder
-1748,1724,2017,Yohan Benalouane,30,Leicester,Defender
-1749,488,2017,Eric Dier,23,Tottenham,Defender
-1750,928,2017,Kenedy,21,Newcastle,Midfielder
-1751,651,2017,Idrissa Gueye,27,Everton,Midfielder
-1752,382,2017,David Ospina,28,Arsenal,Goalkeeper
-1753,842,2017,Jordan Henderson,27,Liverpool,Midfielder
-1754,1105,2017,Marouane Fellaini,29,Man Utd,Midfielder
-1755,388,2017,Davinson Sanchez,21,Tottenham,Defender
-1756,766,2017,Jesus Gamez,32,Newcastle,Defender
-1757,1184,2017,Michael Keane,24,Everton,Defender
-1758,88,2017,Alvaro Morata,24,Chelsea,Forward
-1759,290,2017,Christian Kabasele,26,Watford,Defender
-1760,1093,2017,Mario Lemina,23,Southampton,Midfielder
-1761,1263,2017,Nick Pope,25,Burnley,Goalkeeper
-1762,487,2017,Eric Choupo-Moting,28,Stoke,Forward
-1763,280,2017,Chris Brunt,32,WBA,Midfielder
-1764,1299,2017,Oriol Romeu,25,Southampton,Midfielder
-1765,705,2017,James Collins,34,West Ham,Defender
-1766,134,2017,Antonio Rudiger,24,Chelsea,Defender
-1767,1492,2017,Sead Kolasinac,24,Arsenal,Defender
-1768,803,2017,Joel Matip,26,Liverpool,Defender
-1769,841,2017,Jordan Ayew,25,Swansea,Forward
-1770,354,2017,Danilo,26,Man City,Defender
-1771,287,2017,Christian Benteke,26,Crystal Palace,Forward
-1772,1727,2017,Younes Kaboul,31,Watford,Defender
-1773,1666,2017,Victor Moses,26,Chelsea,Midfielder
-1774,1220,2017,Mousa Dembele,30,Tottenham,Midfielder
-1775,861,2017,Jose Fonte,33,West Ham,Defender
-1776,1554,2017,Steve Cook,26,Bournemouth,Defender
-1777,1197,2017,Mike van der Hoorn,24,Swansea,Defender
-1778,1044,2017,Lukasz Fabianski,32,Swansea,Goalkeeper
-1779,1689,2017,Wesley Hoedt,23,Southampton,Defender
-1780,1552,2017,Stephen Ward,32,Burnley,Defender
-1781,819,2017,John Stones,23,Man City,Defender
-1782,1235,2017,Nathan Ake,22,Bournemouth,Defender
-1783,1189,2017,Michail Antonio,27,West Ham,Forward
-1784,611,2017,Gylfi Sigurdsson,27,Everton,Midfielder
-1785,58,2017,Alex Iwobi,21,Arsenal,Forward
-1786,881,2017,Joshua King,25,Bournemouth,Forward
-1787,63,2017,Alex Oxlade Chamberlain,24,Liverpool,Midfielder
-1788,127,2017,Anthony Martial,21,Man Utd,Forward
-1789,900,2017,Junior Stanislas,27,Bournemouth,Midfielder
-1790,783,2017,Joe Allen,27,Stoke,Midfielder
-1791,835,2017,Jonjoe Kenny,20,Everton,Defender
-1792,1712,2017,Xherdan Shaqiri,25,Stoke,Midfielder
-1793,1348,2017,Phil Bardsley,32,Burnley,Defender
-1794,182,2017,Benjamin Mendy,23,Man City,Defender
-1795,891,2017,Juan Mata,29,Man Utd,Midfielder
-1796,1493,2017,Seamus Coleman,28,Everton,Defender
-1797,1604,2017,Tiemoue Bakayoko,23,Chelsea,Midfielder
-1798,262,2017,Chancel Mbemba,23,Newcastle,Defender
-1799,566,2017,Gary Cahill,31,Chelsea,Defender
-1800,1246,2017,Nathaniel Chalobah,22,Watford,Midfielder
-1801,5,2017,Aaron Mooy,26,Huddersfield,Midfielder
-1802,1169,2017,Maya Yoshida,29,Southampton,Defender
-1803,1052,2017,Luke Shaw,22,Man Utd,Defender
-1804,1338,2017,Pedro Obiang,25,West Ham,Midfielder
-1805,1344,2017,Peter Crouch,36,Stoke,Forward
-1806,1206,2017,Mohamed Diame,30,Newcastle,Midfielder
-1807,376,2017,David Luiz,30,Chelsea,Defender
-1808,645,2017,Iborra,29,Leicester,Midfielder
-1809,1199,2017,Mikel Merino,21,Newcastle,Midfielder
-1810,1398,2017,Richarlison,20,Watford,Forward
-1811,972,2017,Kyle Naughton,28,Swansea,Defender
-1812,1142,2017,Matt Ritchie,27,Newcastle,Midfielder
-1813,333,2017,Daley Blind,27,Man Utd,Defender
-1814,298,2017,Claudio Bravo,34,Man City,Goalkeeper
-1815,386,2017,David de Gea,26,Man Utd,Goalkeeper
-1816,1407,2017,Robert Elliot,31,Newcastle,Goalkeeper
-1817,459,2017,Eldin Jakupovic,32,Leicester,Goalkeeper
-1818,684,2017,Jack Wilshere,25,Arsenal,Midfielder
-1819,1350,2017,Phil Jagielka,35,Everton,Defender
-1820,764,2017,Jesse Lingard,24,Man Utd,Midfielder
-1821,808,2017,Joel Ward,27,Crystal Palace,Defender
-1822,165,2017,Ben Chilwell,20,Leicester,Defender
-1823,289,2017,Christian Fuchs,31,Leicester,Defender
-1824,1319,2017,Pascal Gross,26,Brighton,Midfielder
-1825,75,2017,Alfie Mawson,23,Swansea,Defender
-1826,1122,2017,Mason Holgate,20,Everton,Defender
-1827,1120,2017,Marvin Zeegelaar,27,Watford,Defender
-1828,1365,2017,Ragnar Klavan,31,Liverpool,Defender
-1829,1097,2017,Mark Noble,30,West Ham,Midfielder
-1830,1064,2017,Mamadou Sakho,27,Crystal Palace,Defender
-1831,274,2017,Cheikhou Kouyate,27,West Ham,Midfielder
-1832,1071,2017,Marc Albrighton,27,Leicester,Midfielder
-1833,585,2017,Gerard Deulofeu,23,Watford,Forward
-1834,105,2017,Andreas Christensen,21,Chelsea,Defender
-1835,47,2017,Alberto Moreno,25,Liverpool,Defender
-1836,1725,2017,Yohan Cabaye,31,Crystal Palace,Midfielder
-1837,1325,2017,Patrick van Aanholt,27,Crystal Palace,Defender
-1838,683,2017,Jack Stephens,23,Southampton,Defender
-1839,332,2017,Dale Stephens,28,Brighton,Midfielder
-1840,634,2017,Hector Bellerin,22,Arsenal,Defender
-1841,285,2017,Chris Wood,25,Burnley,Forward
-1842,297,2017,Ciaran Clark,27,Newcastle,Defender
-1843,583,2017,Georginio Wijnaldum,26,Liverpool,Midfielder
-1844,126,2017,Anthony Knockaert,25,Brighton,Midfielder
-1845,189,2017,Bernardo Silva,23,Man City,Midfielder
-1846,714,2017,James Milner,31,Liverpool,Midfielder
-1847,444,2017,Dusan Tadic,28,Southampton,Forward
-1848,1291,2017,Olivier Giroud,30,Chelsea,Forward
-1849,836,2017,Jonny Evans,29,WBA,Defender
-1850,1557,2017,Steve Mounie,22,Huddersfield,Forward
-1851,34,2017,Adrian,30,West Ham,Goalkeeper
-1852,1458,2017,Salomon Rondon,27,WBA,Forward
-1853,1564,2017,Steven Defour,29,Burnley,Midfielder
-1854,242,2017,Calum Chambers,22,Arsenal,Defender
-1855,53,2017,Aleksandar Dragovic,26,Leicester,Defender
-1856,371,2017,Daryl Janmaat,28,Watford,Defender
-1857,353,2017,Daniel Sturridge,27,Liverpool,Forward
-1858,829,2017,Jonathan Hogg,28,Huddersfield,Midfielder
-1859,672,2017,Jack Butland,24,Stoke,Goalkeeper
-1860,862,2017,Jose Holebas,33,Watford,Defender
-1861,520,2017,Federico Fernandez,28,Swansea,Defender
-1862,1065,2017,Mame Diouf,29,Stoke,Forward
-1863,1327,2017,Paul Dummett,25,Newcastle,Defender
-1864,1089,2017,Marcus Rashford,19,Man Utd,Forward
-1865,958,2017,Kiko Femenia,26,Watford,Defender
-1866,269,2017,Charlie Taylor,23,Burnley,Defender
-1867,391,2017,DeAndre Yedlin,24,Newcastle,Defender
-1868,122,2017,Angelo Ogbonna,29,West Ham,Defender
-1869,390,2017,Davy Propper,25,Brighton,Midfielder
-1870,710,2017,James McArthur,29,Crystal Palace,Midfielder
-1871,1347,2017,Petr Cech,35,Arsenal,Goalkeeper
-1872,1313,2017,Pablo Zabaleta,32,West Ham,Defender
-1873,358,2017,Danny Rose,27,Tottenham,Defender
-1874,642,2017,Hugo Lloris,30,Tottenham,Goalkeeper
-1875,1681,2017,Wayne Hennessey,30,Crystal Palace,Goalkeeper
-1876,866,2017,Joselu,27,Newcastle,Forward
-1877,259,2017,Cenk Tosun,26,Everton,Forward
-1878,498,2017,Etienne Capoue,29,Watford,Midfielder
-1879,1190,2017,Michel Vorm,33,Tottenham,Goalkeeper
-1880,674,2017,Jack Cork,28,Burnley,Midfielder
-1881,1695,2017,Will Hughes,22,Watford,Midfielder
-1882,777,2017,Joao Mario,24,West Ham,Midfielder
-1883,155,2017,Ayoze Perez,24,Newcastle,Forward
-1884,1132,2017,Mathew Ryan,25,Brighton,Goalkeeper
-1885,1141,2017,Matt Phillips,26,WBA,Midfielder
-1886,1005,2017,Lewis Cook,20,Bournemouth,Midfielder
-1887,655,2017,Ilkay Gundogan,26,Man City,Midfielder
-1888,1111,2017,Martin Dubravka,28,Newcastle,Goalkeeper
-1889,25,2017,Adam Smith,26,Bournemouth,Defender
-1890,990,2017,Leighton Baines,32,Everton,Defender
-1891,112,2017,Andrew Surman,31,Bournemouth,Midfielder
-1892,492,2017,Erik Pieters,29,Stoke,Defender
-1893,435,2017,Dominic Calvert-Lewin,20,Everton,Forward
-1894,1447,2017,Ryan Fraser,23,Bournemouth,Midfielder
-1895,1733,2017,Zanka,27,Huddersfield,Defender
-1896,834,2017,Jonjo Shelvey,25,Newcastle,Midfielder
-1897,1460,2017,Sam Byram,23,West Ham,Defender
-1898,221,2017,Bruno,36,Brighton,Defender
-1899,150,2017,Ashley Williams,33,Everton,Defender
-1900,64,2017,Alex Pritchard,24,Huddersfield,Midfielder
-1901,1026,2017,Loris Karius,24,Liverpool,Goalkeeper
-1902,951,2017,Kieran Gibbs,27,WBA,Defender
-1903,1487,2017,Scott Dann,30,Crystal Palace,Defender
-1904,1405,2017,Rob Holding,21,Arsenal,Defender
-1905,115,2017,Andy Carroll,28,West Ham,Forward
-1906,2,2017,Aaron Cresswell,27,West Ham,Defender
-1907,452,2017,Ederson,24,Man City,Goalkeeper
-1908,1615,2017,Toby Alderweireld,28,Tottenham,Defender
-1909,1535,2017,Sofiane Boufal,23,Southampton,Forward
-1910,999,2017,Leroy Fer,27,Swansea,Midfielder
-1911,574,2017,Geoff Cameron,32,Stoke,Defender
-1912,726,2017,Jan Bednarek,21,Southampton,Defender
-1913,1341,2017,Per Mertesacker,32,Arsenal,Defender
-1914,1177,2017,Michael Carrick,36,Man Utd,Midfielder
-1915,197,2017,Boaz Myhill,34,WBA,Goalkeeper
-1916,1620,2017,Tom Cleverley,28,Watford,Midfielder
-1917,1335,2017,Pedro,30,Chelsea,Forward
-1918,1665,2017,Victor Lindelof,23,Man Utd,Defender
-1919,1445,2017,Ryan Bertrand,28,Southampton,Defender
-1920,754,2017,Jeffrey Schlupp,24,Crystal Palace,Midfielder
-1921,913,2017,Karl Darlow,26,Newcastle,Goalkeeper
-1922,42,2017,Ainsley Maitland-Niles,20,Arsenal,Midfielder
-1923,1085,2017,Marcos Rojo,27,Man Utd,Defender
-1924,962,2017,Konstantinos Stafylidis,23,Stoke,Defender
-1925,853,2017,Jordon Ibe,21,Bournemouth,Midfielder
-1926,1706,2017,Willy Caballero,35,Chelsea,Goalkeeper
-1927,35,2017,Adrian Mariappa,30,Watford,Defender
-1928,267,2017,Charlie Daniels,30,Bournemouth,Defender
-1929,467,2017,Emerson,23,Chelsea,Defender
-1930,1213,2017,Molla Wague,26,Watford,Defender
-1931,1668,2017,Victor Wanyama,26,Tottenham,Midfielder
-1932,639,2017,Heurelho Gomes,36,Watford,Goalkeeper
-1933,1302,2017,Oumar Niasse,27,Everton,Forward
-1934,96,2017,Andre Ayew,27,Swansea,Forward
-1935,1243,2017,Nathan Redmond,23,Southampton,Midfielder
-1936,1563,2017,Steven Davis,32,Southampton,Midfielder
-1937,1682,2017,Wayne Rooney,31,Everton,Forward
-1938,1155,2017,Matty James,26,Leicester,Midfielder
-1939,1485,2017,Scott Arfield,28,Burnley,Midfielder
-1940,1218,2017,Moritz Bauer,25,Stoke,Defender
-1941,845,2017,Jordan Pickford,23,Everton,Goalkeeper
-1942,1598,2017,Thibaut Courtois,25,Chelsea,Goalkeeper
-1943,894,2017,Julian Speroni,38,Crystal Palace,Goalkeeper
-1944,863,2017,Jose Izquierdo,25,Brighton,Forward
-1945,606,2017,Grzegorz Krychowiak,27,WBA,Midfielder
-1946,1707,2017,Winston Reid,29,West Ham,Defender
-1947,742,2017,Jay Rodriguez,28,WBA,Forward
-1948,607,2017,Guido Carrillo,26,Southampton,Forward
-1949,97,2017,Andre Carrillo,26,Watford,Midfielder
-1950,1145,2017,Matteo Darmian,27,Man Utd,Defender
-1951,969,2017,Kyle Bartley,26,Swansea,Defender
-1952,1642,2017,Troy Deeney,29,Watford,Forward
-1953,1686,2017,Wes Morgan,33,Leicester,Defender
-1954,1358,2017,Pierre-Emile Hoejbjerg,22,Southampton,Midfielder
-1955,387,2017,Davide Zappacosta,25,Chelsea,Defender
-1956,319,2017,Craig Cathcart,28,Watford,Defender
-1957,918,2017,Kasper Schmeichel,30,Leicester,Goalkeeper
-1958,947,2017,Ki Sung-Yueng,28,Swansea,Midfielder
-1959,93,2017,Ander Herrera,28,Man Utd,Midfielder
-1960,1539,2017,Solly March,23,Brighton,Midfielder
-1961,1630,2017,Tomer Hemed,30,Brighton,Forward
-1962,561,2017,Gaetan Bong,29,Brighton,Defender
-1963,593,2017,Glenn Murray,33,Brighton,Forward
-1964,719,2017,James Ward-Prowse,22,Southampton,Midfielder
-1965,4,2017,Aaron Lennon,30,Burnley,Midfielder
-1966,276,2017,Chicharito,29,West Ham,Forward
-1967,359,2017,Danny Simpson,30,Leicester,Defender
-1968,339,2017,Dan Gosling,27,Bournemouth,Midfielder
-1969,1523,2017,Shinji Okazaki,31,Leicester,Forward
-1970,977,2017,Laurent Depoitre,28,Huddersfield,Forward
-1971,83,2017,Allan-Romeo Nyom,29,WBA,Defender
-1972,257,2017,Cedric Soares,25,Southampton,Defender
-1973,1612,2017,Timothy Fosu-Mensah,19,Crystal Palace,Defender
-1974,147,2017,Ashley Barnes,27,Burnley,Forward
-1975,460,2017,Eliaquim Mangala,26,Man City,Defender
-1976,564,2017,Gareth Barry,36,WBA,Midfielder
-1977,1217,2017,Morgan Schneiderlin,27,Everton,Midfielder
-1978,825,2017,Jonas Lossl,28,Huddersfield,Goalkeeper
-1979,1499,2017,Sebastian Prodl,30,Watford,Defender
-1980,1367,2017,Rajiv van La Parra,26,Huddersfield,Midfielder
-1981,241,2017,Callum Wilson,25,Bournemouth,Forward
-1982,1461,2017,Sam Clucas,26,Swansea,Midfielder
-1983,1516,2017,Shane Long,30,Southampton,Forward
-1984,695,2017,Jake Livermore,27,WBA,Midfielder
-1985,660,2017,Isaac Hayden,22,Newcastle,Midfielder
-1986,265,2017,Charlie Austin,28,Southampton,Forward
-1987,60,2017,Alex McCarthy,27,Southampton,Goalkeeper
-1988,945,2017,Kevin Wimmer,24,Stoke,Defender
-1989,152,2017,Asmir Begovic,30,Bournemouth,Goalkeeper
-1990,491,2017,Erik Lamela,25,Tottenham,Midfielder
-1991,1619,2017,Tom Carroll,25,Swansea,Midfielder
-1992,361,2017,Danny Welbeck,26,Arsenal,Forward
-1993,281,2017,Chris Lowe,28,Huddersfield,Defender
-1994,548,2017,Fraser Forster,29,Southampton,Goalkeeper
-1995,1633,2017,Tommy Smith,25,Huddersfield,Defender
-1996,1414,2017,Roberto Pereyra,26,Watford,Midfielder
-1997,1193,2017,Miguel Britos,32,Watford,Defender
-1998,1720,2017,Yaya Toure,34,Man City,Midfielder
-1999,286,2017,Christian Atsu,25,Newcastle,Midfielder
-2000,534,2017,Florent Hadergjonaj,23,Huddersfield,Defender
-2001,168,2017,Ben Foster,34,WBA,Goalkeeper
-2002,740,2017,Javier Manquillo,23,Newcastle,Defender
-2003,445,2017,Dwight Gayle,27,Newcastle,Forward
-2004,1601,2017,Thomas Edwards,18,Stoke,Defender
-2005,1692,2017,Wilfried Bony,28,Swansea,Forward
-2006,627,2017,Harry Winks,21,Tottenham,Midfielder
-2007,396,2017,Declan Rice,18,West Ham,Midfielder
-2008,1275,2017,Nordin Amrabat,30,Watford,Forward
-2009,1531,2017,Simon Mignolet,29,Liverpool,Goalkeeper
-2010,367,2017,Darren Fletcher,33,Stoke,Midfielder
-2011,1029,2017,Lucas Moura,25,Tottenham,Forward
-2012,1490,2017,Scott McTominay,20,Man Utd,Midfielder
-2013,1352,2017,Philip Billing,21,Huddersfield,Midfielder
-2014,924,2017,Kelechi Iheanacho,20,Leicester,Forward
-2015,355,2017,Danny Drinkwater,27,Chelsea,Midfielder
-2016,715,2017,James Morrison,31,WBA,Midfielder
-2017,621,2017,Harry Arter,27,Bournemouth,Midfielder
-2018,1462,2017,Sam Field,19,WBA,Midfielder
-2019,1207,2017,Mohamed Elneny,25,Arsenal,Midfielder
-2020,542,2017,Fousseni Diabate,21,Leicester,Forward
-2021,1389,2017,Renato Sanches,20,Swansea,Midfielder
-2022,1223,2017,Moussa Sissoko,28,Tottenham,Midfielder
-2023,1622,2017,Tom Heaton,31,Burnley,Goalkeeper
-2024,1468,2017,Sam Vokes,27,Burnley,Forward
-2025,1103,2017,Markus Suttner,30,Brighton,Defender
-2026,461,2017,Elias Kachunga,25,Huddersfield,Forward
-2027,1369,2017,Ramadan Sobhi,20,Stoke,Midfielder
-2028,1291,2017,Olivier Giroud,30,Arsenal,Forward
-2029,1624,2017,Tom Ince,25,Huddersfield,Midfielder
-2030,402,2017,Demarai Gray,21,Leicester,Forward
-2031,299,2017,Claudio Yacob,30,WBA,Midfielder
-2032,1384,2017,Reiss Nelson,17,Arsenal,Forward
-2033,1112,2017,Martin Kelly,27,Crystal Palace,Defender
-2034,55,2017,Aleksandar Mitrovic,22,Newcastle,Forward
-2035,763,2017,Jese,24,Stoke,Forward
-2036,226,2017,Bruno Martins Indi,25,Stoke,Defender
-2037,1578,2017,Sullay Kaikai,22,Crystal Palace,Forward
-2038,96,2017,Andre Ayew,27,West Ham,Forward
-2039,149,2017,Ashley Westwood,27,Burnley,Midfielder
-2040,1621,2017,Tom Davies,19,Everton,Midfielder
-2041,161,2017,Bakary Sako,29,Crystal Palace,Forward
-2042,116,2017,Andy King,28,Swansea,Midfielder
-2043,1585,2017,Tammy Abraham,19,Swansea,Forward
-2044,437,2017,Dominic Solanke,19,Liverpool,Forward
-2045,308,2017,Connor Goldson,24,Brighton,Defender
-2046,36,2017,Adrien Silva,28,Leicester,Midfielder
-2047,503,2017,Ezequiel Schelotto,28,Brighton,Defender
-2048,453,2017,Edimilson Fernandes,21,West Ham,Midfielder
-2049,307,2017,Collin Quaner,26,Huddersfield,Forward
-2050,344,2017,Daniel Amartey,22,Leicester,Defender
-2051,1191,2017,Michy Batshuayi,23,Chelsea,Forward
-2052,713,2017,James McClean,28,WBA,Midfielder
-2053,1488,2017,Scott Malone,26,Huddersfield,Defender
-2054,760,2017,Jermain Defoe,34,Bournemouth,Forward
-2055,236,2017,Callum Hudson-Odoi,16,Chelsea,Forward
-2056,1019,2017,Liam Rosenior,33,Brighton,Defender
-2057,1431,2017,Ross Barkley,23,Chelsea,Midfielder
-2058,1655,2017,Uwe Hunemeier,31,Brighton,Defender
-2059,1546,2017,Stefano Okaka,28,Watford,Forward
-2060,1371,2017,Ramiro Funes Mori,26,Everton,Defender
-2061,1271,2017,Nikola Vlasic,19,Everton,Midfielder
-2062,310,2017,Connor Roberts,21,Swansea,Defender
-2063,4,2017,Aaron Lennon,30,Everton,Midfielder
-2064,362,2017,Danny Williams,28,Huddersfield,Midfielder
-2065,1298,2017,Orestis Karnezis,32,Watford,Goalkeeper
-2066,270,2017,Charly Musonda,20,Chelsea,Midfielder
-2067,1716,2017,Yannick Bolasie,28,Everton,Forward
-2068,116,2017,Andy King,28,Leicester,Midfielder
-2069,751,2017,Jeff Hendrick,25,Burnley,Midfielder
-2070,357,2017,Danny Ings,25,Liverpool,Forward
-2071,1115,2017,Martin Olsson,29,Swansea,Defender
-2072,1033,2017,Luciano Narsingh,26,Swansea,Forward
-2073,691,2017,Jairo Riedewald,20,Crystal Palace,Midfielder
-2074,917,2017,Kasey Palmer,20,Huddersfield,Midfielder
-2075,1229,2017,Nacer Chadli,28,WBA,Midfielder
-2076,31,2017,Ademola Lookman,19,Everton,Forward
-2077,1385,2017,Rekeem Harper,17,WBA,Midfielder
-2078,264,2017,Charlie Adam,31,Stoke,Midfielder
-2079,1076,2017,Marc Pugh,30,Bournemouth,Midfielder
-2080,1066,2017,Manolo Gabbiadini,25,Southampton,Forward
-2081,1349,2017,Phil Foden,17,Man City,Midfielder
-2082,961,2017,Konstantinos Mavropanos,19,Arsenal,Defender
-2083,10,2017,Abdelhamid Sabiri,20,Huddersfield,Midfielder
-2084,685,2017,Jacob Murphy,22,Newcastle,Midfielder
-2085,1321,2017,Patrice Evra,36,West Ham,Defender
-2086,176,2017,Ben Watson,32,Watford,Midfielder
-2087,1056,2017,Lys Mousset,21,Bournemouth,Forward
-2088,613,2017,Hal Robson-Kanu,28,WBA,Forward
-2089,1430,2017,Roque Mesa,28,Swansea,Midfielder
-2090,1239,2017,Nathan Dyer,29,Swansea,Midfielder
-2091,879,2017,Josh Sims,20,Southampton,Midfielder
-2092,1247,2017,Nathaniel Clyne,26,Liverpool,Defender
-2093,998,2017,Leonardo Ulloa,31,Brighton,Forward
-2094,616,2017,Hamza Choudhury,19,Leicester,Midfielder
-2095,790,2017,Joe Hart,30,West Ham,Goalkeeper
-2096,1422,2017,Rolando Aarons,21,Newcastle,Midfielder
-2097,185,2017,Beram Kayal,29,Brighton,Midfielder
-2098,995,2017,Leon Britton,34,Swansea,Midfielder
-2099,335,2017,Damien Delaney,36,Crystal Palace,Defender
-2100,1287,2017,Oliver McBurnie,21,Swansea,Forward
-2101,712,2017,James McCarthy,26,Everton,Midfielder
-2102,986,2017,Lee Grant,34,Stoke,Goalkeeper
-2103,1286,2017,Oliver Burke,20,WBA,Forward
-2104,1002,2017,Levi Lumeka,18,Crystal Palace,Forward
-2105,592,2017,Glen Johnson,33,Stoke,Defender
-2106,99,2017,Andre Gray,26,Watford,Forward
-2107,1224,2017,Muhamed Besic,24,Everton,Midfielder
-2108,495,2017,Ethan Ampadu,16,Chelsea,Defender
-2109,665,2017,Islam Slimani,29,Leicester,Forward
-2110,565,2017,Gareth McAuley,37,WBA,Defender
-2111,1466,2017,Sam McQueen,22,Southampton,Defender
-2112,22,2017,Adam Lallana,29,Liverpool,Midfielder
-2113,1109,2017,Martin Cranie,30,Huddersfield,Defender
-2114,581,2017,Georges-Kevin Nkoudou,22,Burnley,Midfielder
-2115,1654,2017,Tyrone Mings,24,Bournemouth,Defender
-2116,1734,2017,Zlatan Ibrahimovic,35,Man Utd,Forward
-2117,526,2017,Fernando Llorente,32,Tottenham,Forward
-2118,432,2017,Dodi Lukebakio,19,Watford,Forward
-2119,181,2017,Benik Afobe,24,Bournemouth,Forward
-2120,665,2017,Islam Slimani,29,Newcastle,Forward
-2121,1382,2017,Reece Oxford,18,West Ham,Defender
-2122,940,2017,Kevin Mirallas,29,Everton,Midfielder
-2123,664,2017,Isaiah Brown,20,Brighton,Midfielder
-2124,120,2017,Angel Rangel,34,Swansea,Defender
-2125,793,2017,Joe Lolley,25,Huddersfield,Forward
-2126,871,2017,Josh Cullen,21,West Ham,Midfielder
-2127,412,2017,Diafra Sakho,27,West Ham,Forward
-2128,902,2017,Jurgen Locadia,23,Brighton,Forward
-2129,179,2017,Ben Woodburn,17,Liverpool,Midfielder
-2130,544,2017,Francis Coquelin,26,Arsenal,Midfielder
-2131,1683,2017,Wayne Routledge,32,Swansea,Midfielder
-2132,389,2017,Davy Klaassen,24,Everton,Midfielder
-2133,1101,2017,Marko Grujic,21,Liverpool,Midfielder
-2134,998,2017,Leonardo Ulloa,31,Leicester,Forward
-2135,201,2017,Bojan,27,Stoke,Forward
-2136,761,2017,Jerome Sinclair,20,Watford,Forward
-2137,843,2017,Jordan Hugill,25,West Ham,Forward
-2138,1549,2017,Stephen Ireland,31,Stoke,Midfielder
-2139,353,2017,Daniel Sturridge,27,WBA,Forward
-2140,180,2017,Beni Baningime,18,Everton,Midfielder
-2141,1651,2017,Tyrese Campbell,17,Stoke,Forward
-2142,210,2017,Brahim Diaz,18,Man City,Midfielder
-2143,722,2017,Jamie Murphy,28,Brighton,Forward
-2144,737,2017,Jason Puncheon,31,Crystal Palace,Midfielder
-2145,1457,2017,Saido Berahino,24,Stoke,Forward
-2146,449,2017,Eddie Nketiah,18,Arsenal,Forward
-2147,1316,2017,Pape Souare,27,Crystal Palace,Defender
-2148,798,2017,Joe Willock,18,Arsenal,Midfielder
-2149,1124,2017,Massadio Haidara,24,Newcastle,Defender
-2150,756,2017,Jeremie Boga,20,Chelsea,Forward
-2151,1231,2017,Nahki Wells,27,Burnley,Forward
-2152,395,2017,Dean Whitehead,35,Huddersfield,Midfielder
-2153,1479,2017,Sandro Ramirez,22,Everton,Forward
-2154,628,2017,Harvey Barnes,19,Leicester,Midfielder
-2155,468,2017,Emerson Hyndman,21,Bournemouth,Midfielder
-2156,153,2017,Axel Tuanzebe,19,Man Utd,Defender
-2157,446,2017,Dwight McNeil,17,Burnley,Forward
-2158,581,2017,Georges-Kevin Nkoudou,22,Tottenham,Midfielder
-2159,1670,2017,Vincent Janssen,23,Tottenham,Forward
-2160,646,2017,Ibrahim Afellay,31,Stoke,Midfielder
-2161,985,2017,Lee Chung-Yong,29,Crystal Palace,Midfielder
-2162,1041,2017,Lukas Nmecha,18,Man City,Forward
-2163,171,2017,Ben Hamer,29,Leicester,Goalkeeper
-2164,741,2017,Jay Fulton,23,Swansea,Midfielder
-2165,833,2017,Jonathan Walters,33,Burnley,Forward
-2166,681,2017,Jack Simpson,20,Bournemouth,Defender
-2167,1459,2017,Sam Baldock,28,Brighton,Forward
-2168,550,2017,Freddie Ladapo,24,Crystal Palace,Forward
-2169,895,2017,Julien Ngoy,19,Stoke,Forward
-2170,1187,2017,Michael Obafemi,17,Southampton,Forward
-2171,1183,2017,Michael Hefele,26,Huddersfield,Defender
-2172,429,2017,Divock Origi,22,Liverpool,Forward
-2173,880,2017,Josh Tymon,18,Stoke,Defender
-2174,460,2017,Eliaquim Mangala,26,Everton,Defender
+,No.,year,Name,Age,Team,Position
+1605,1354,2017,Philippe Coutinho,25,Liverpool,Midfielder
+1606,1508,2017,Sergio Aguero,29,Man City,Forward
+1607,935,2017,Kevin De Bruyne,26,Man City,Midfielder
+1608,637,2017,Henri Saivet,26,Newcastle,Midfielder
+1609,1209,2017,Mohamed Salah,25,Liverpool,Forward
+1610,450,2017,Eden Hazard,26,Chelsea,Forward
+1611,622,2017,Harry Kane,24,Tottenham,Forward
+1612,385,2017,David Silva,31,Man City,Midfielder
+1613,74,2017,Alexis Sanchez,28,Man Utd,Forward
+1614,1366,2017,Raheem Sterling,22,Man City,Forward
+1615,1000,2017,Leroy Sane,21,Man City,Forward
+1616,1334,2017,Paulo Gazzaniga,25,Tottenham,Goalkeeper
+1617,9,2017,Aaron Wan-Bissaka,19,Crystal Palace,Defender
+1618,1331,2017,Paul Pogba,24,Man Utd,Midfielder
+1619,524,2017,Fernandinho,32,Man City,Midfielder
+1620,758,2017,Jeremy Pied,28,Southampton,Defender
+1621,288,2017,Christian Eriksen,25,Tottenham,Midfielder
+1622,1412,2017,Roberto Firmino,25,Liverpool,Forward
+1623,1524,2017,Shkodran Mustafi,25,Arsenal,Defender
+1624,1694,2017,Wilfried Zaha,24,Crystal Palace,Forward
+1625,1672,2017,Virgil van Dijk,26,Liverpool,Defender
+1626,638,2017,Henrikh Mkhitaryan,28,Arsenal,Midfielder
+1627,1512,2017,Sergio Romero,30,Man Utd,Goalkeeper
+1628,1357,2017,Pierre-Emerick Aubameyang,28,Arsenal,Forward
+1629,718,2017,James Tomkins,28,Crystal Palace,Defender
+1630,1426,2017,Romelu Lukaku,24,Man Utd,Forward
+1631,1404,2017,Riyad Mahrez,26,Leicester,Forward
+1632,1505,2017,Serge Aurier,24,Tottenham,Defender
+1633,481,2017,Emre Can,23,Liverpool,Midfielder
+1634,974,2017,Kyle Walker-Peters,20,Tottenham,Defender
+1635,1455,2017,Sadio Mane,25,Liverpool,Forward
+1636,7,2017,Aaron Ramsey,26,Arsenal,Midfielder
+1637,729,2017,Jan Vertonghen,30,Tottenham,Defender
+1638,1175,2017,Mesut Ozil,28,Arsenal,Midfielder
+1639,1226,2017,N'Golo Kante,26,Chelsea,Midfielder
+1640,284,2017,Chris Smalling,27,Man Utd,Defender
+1641,717,2017,James Tarkowski,24,Burnley,Defender
+1642,1351,2017,Phil Jones,25,Man Utd,Defender
+1643,1259,2017,Nemanja Matic,29,Man Utd,Midfielder
+1644,260,2017,Cesar Azpilicueta,28,Chelsea,Defender
+1645,1515,2017,Shane Duffy,25,Brighton,Defender
+1646,937,2017,Kevin Long,27,Burnley,Defender
+1647,507,2017,Fabian Delph,27,Man City,Midfielder
+1648,1691,2017,Wilfred Ndidi,20,Leicester,Midfielder
+1649,1266,2017,Nicolas Otamendi,29,Man City,Defender
+1650,1084,2017,Marcos Alonso,26,Chelsea,Defender
+1651,1230,2017,Nacho Monreal,31,Arsenal,Defender
+1652,1595,2017,Theo Walcott,28,Everton,Forward
+1653,173,2017,Ben Mee,27,Burnley,Defender
+1654,968,2017,Kurt Zouma,22,Stoke,Defender
+1655,151,2017,Ashley Young,32,Man Utd,Defender
+1656,114,2017,Andros Townsend,26,Crystal Palace,Midfielder
+1657,1285,2017,Oleksandr Zinchenko,20,Man City,Defender
+1658,789,2017,Joe Gomez,20,Liverpool,Defender
+1659,294,2017,Christopher Schindler,27,Huddersfield,Defender
+1660,1406,2017,Robert Brady,25,Burnley,Midfielder
+1661,67,2017,Alexander Soerloth,21,Crystal Palace,Forward
+1662,261,2017,Cesc Fabregas,30,Chelsea,Midfielder
+1663,1452,2017,Ryan Shawcross,29,Stoke,Defender
+1664,154,2017,Aymeric Laporte,23,Man City,Defender
+1665,401,2017,Dele Alli,21,Tottenham,Midfielder
+1666,70,2017,Alexandre Lacazette,26,Arsenal,Forward
+1667,166,2017,Ben Davies,24,Tottenham,Defender
+1668,1434,2017,Ruben Loftus-Cheek,21,Crystal Palace,Midfielder
+1669,978,2017,Laurent Koscielny,31,Arsenal,Defender
+1670,623,2017,Harry Maguire,24,Leicester,Defender
+1671,1100,2017,Marko Arnautovic,28,West Ham,Forward
+1672,135,2017,Antonio Valencia,32,Man Utd,Defender
+1673,976,2017,Lasse Soerensen,17,Stoke,Midfielder
+1674,535,2017,Florian Lejeune,26,Newcastle,Defender
+1675,973,2017,Kyle Walker,27,Man City,Defender
+1676,555,2017,Gabriel Jesus,20,Man City,Forward
+1677,1070,2017,Manuel Lanzini,24,West Ham,Midfielder
+1678,700,2017,Jamaal Lascelles,23,Newcastle,Defender
+1679,1671,2017,Vincent Kompany,31,Man City,Defender
+1680,954,2017,Kieran Trippier,26,Tottenham,Defender
+1681,486,2017,Eric Bailly,23,Man Utd,Defender
+1682,145,2017,Arthur Masuaku,23,West Ham,Defender
+1683,1007,2017,Lewis Dunk,25,Brighton,Defender
+1684,811,2017,Johann Gudmundsson,26,Burnley,Midfielder
+1685,117,2017,Andy Robertson,23,Liverpool,Defender
+1686,320,2017,Craig Dawson,27,WBA,Defender
+1687,1591,2017,Terence Kongolo,23,Huddersfield,Defender
+1688,601,2017,Granit Xhaka,24,Arsenal,Midfielder
+1689,157,2017,Badou Ndiaye,26,Stoke,Midfielder
+1690,1638,2017,Trent Alexander-Arnold,18,Liverpool,Defender
+1691,1039,2017,Luka Milivojevic,26,Crystal Palace,Midfielder
+1692,1703,2017,Willian,29,Chelsea,Forward
+1693,11,2017,Abdoulaye Doucoure,24,Watford,Midfielder
+1694,400,2017,Dejan Lovren,28,Liverpool,Defender
+1695,1540,2017,Son Heung-Min,25,Tottenham,Forward
+1696,38,2017,Ahmed Hegazy,26,WBA,Defender
+1697,725,2017,Jamie Vardy,30,Leicester,Forward
+1698,328,2017,Cuco Martina,27,Everton,Defender
+1699,1149,2017,Matthew Lowton,28,Burnley,Defender
+1700,1143,2017,Matt Targett,21,Southampton,Defender
+1701,1530,2017,Simon Francis,32,Bournemouth,Defender
+1702,1724,2017,Yohan Benalouane,30,Leicester,Defender
+1703,488,2017,Eric Dier,23,Tottenham,Defender
+1704,928,2017,Kenedy,21,Newcastle,Midfielder
+1705,651,2017,Idrissa Gueye,27,Everton,Midfielder
+1706,382,2017,David Ospina,28,Arsenal,Goalkeeper
+1707,842,2017,Jordan Henderson,27,Liverpool,Midfielder
+1708,1105,2017,Marouane Fellaini,29,Man Utd,Midfielder
+1709,388,2017,Davinson Sanchez,21,Tottenham,Defender
+1710,766,2017,Jesus Gamez,32,Newcastle,Defender
+1711,1184,2017,Michael Keane,24,Everton,Defender
+1712,88,2017,Alvaro Morata,24,Chelsea,Forward
+1713,290,2017,Christian Kabasele,26,Watford,Defender
+1714,1093,2017,Mario Lemina,23,Southampton,Midfielder
+1715,1263,2017,Nick Pope,25,Burnley,Goalkeeper
+1716,487,2017,Eric Choupo-Moting,28,Stoke,Forward
+1717,280,2017,Chris Brunt,32,WBA,Midfielder
+1718,1299,2017,Oriol Romeu,25,Southampton,Midfielder
+1719,705,2017,James Collins,34,West Ham,Defender
+1720,134,2017,Antonio Rudiger,24,Chelsea,Defender
+1721,1492,2017,Sead Kolasinac,24,Arsenal,Defender
+1722,803,2017,Joel Matip,26,Liverpool,Defender
+1723,841,2017,Jordan Ayew,25,Swansea,Forward
+1724,354,2017,Danilo,26,Man City,Defender
+1725,287,2017,Christian Benteke,26,Crystal Palace,Forward
+1726,1727,2017,Younes Kaboul,31,Watford,Defender
+1727,1666,2017,Victor Moses,26,Chelsea,Midfielder
+1728,1220,2017,Mousa Dembele,30,Tottenham,Midfielder
+1729,861,2017,Jose Fonte,33,West Ham,Defender
+1730,1554,2017,Steve Cook,26,Bournemouth,Defender
+1731,1197,2017,Mike van der Hoorn,24,Swansea,Defender
+1732,1044,2017,Lukasz Fabianski,32,Swansea,Goalkeeper
+1733,1689,2017,Wesley Hoedt,23,Southampton,Defender
+1734,1552,2017,Stephen Ward,32,Burnley,Defender
+1735,819,2017,John Stones,23,Man City,Defender
+1736,1235,2017,Nathan Ake,22,Bournemouth,Defender
+1737,1189,2017,Michail Antonio,27,West Ham,Forward
+1738,611,2017,Gylfi Sigurdsson,27,Everton,Midfielder
+1739,58,2017,Alex Iwobi,21,Arsenal,Forward
+1740,881,2017,Joshua King,25,Bournemouth,Forward
+1741,63,2017,Alex Oxlade Chamberlain,24,Liverpool,Midfielder
+1742,127,2017,Anthony Martial,21,Man Utd,Forward
+1743,900,2017,Junior Stanislas,27,Bournemouth,Midfielder
+1744,783,2017,Joe Allen,27,Stoke,Midfielder
+1745,835,2017,Jonjoe Kenny,20,Everton,Defender
+1746,1712,2017,Xherdan Shaqiri,25,Stoke,Midfielder
+1747,1348,2017,Phil Bardsley,32,Burnley,Defender
+1748,182,2017,Benjamin Mendy,23,Man City,Defender
+1749,891,2017,Juan Mata,29,Man Utd,Midfielder
+1750,1493,2017,Seamus Coleman,28,Everton,Defender
+1751,1604,2017,Tiemoue Bakayoko,23,Chelsea,Midfielder
+1752,262,2017,Chancel Mbemba,23,Newcastle,Defender
+1753,566,2017,Gary Cahill,31,Chelsea,Defender
+1754,1246,2017,Nathaniel Chalobah,22,Watford,Midfielder
+1755,5,2017,Aaron Mooy,26,Huddersfield,Midfielder
+1756,1169,2017,Maya Yoshida,29,Southampton,Defender
+1757,1052,2017,Luke Shaw,22,Man Utd,Defender
+1758,1338,2017,Pedro Obiang,25,West Ham,Midfielder
+1759,1344,2017,Peter Crouch,36,Stoke,Forward
+1760,1206,2017,Mohamed Diame,30,Newcastle,Midfielder
+1761,376,2017,David Luiz,30,Chelsea,Defender
+1762,645,2017,Iborra,29,Leicester,Midfielder
+1763,1199,2017,Mikel Merino,21,Newcastle,Midfielder
+1764,1398,2017,Richarlison,20,Watford,Forward
+1765,972,2017,Kyle Naughton,28,Swansea,Defender
+1766,1142,2017,Matt Ritchie,27,Newcastle,Midfielder
+1767,333,2017,Daley Blind,27,Man Utd,Defender
+1768,298,2017,Claudio Bravo,34,Man City,Goalkeeper
+1769,386,2017,David de Gea,26,Man Utd,Goalkeeper
+1770,1407,2017,Robert Elliot,31,Newcastle,Goalkeeper
+1771,459,2017,Eldin Jakupovic,32,Leicester,Goalkeeper
+1772,684,2017,Jack Wilshere,25,Arsenal,Midfielder
+1773,1350,2017,Phil Jagielka,35,Everton,Defender
+1774,764,2017,Jesse Lingard,24,Man Utd,Midfielder
+1775,808,2017,Joel Ward,27,Crystal Palace,Defender
+1776,165,2017,Ben Chilwell,20,Leicester,Defender
+1777,289,2017,Christian Fuchs,31,Leicester,Defender
+1778,1319,2017,Pascal Gross,26,Brighton,Midfielder
+1779,75,2017,Alfie Mawson,23,Swansea,Defender
+1780,1122,2017,Mason Holgate,20,Everton,Defender
+1781,1120,2017,Marvin Zeegelaar,27,Watford,Defender
+1782,1365,2017,Ragnar Klavan,31,Liverpool,Defender
+1783,1097,2017,Mark Noble,30,West Ham,Midfielder
+1784,1064,2017,Mamadou Sakho,27,Crystal Palace,Defender
+1785,274,2017,Cheikhou Kouyate,27,West Ham,Midfielder
+1786,1071,2017,Marc Albrighton,27,Leicester,Midfielder
+1787,585,2017,Gerard Deulofeu,23,Watford,Forward
+1788,105,2017,Andreas Christensen,21,Chelsea,Defender
+1789,47,2017,Alberto Moreno,25,Liverpool,Defender
+1790,1725,2017,Yohan Cabaye,31,Crystal Palace,Midfielder
+1791,1325,2017,Patrick van Aanholt,27,Crystal Palace,Defender
+1792,683,2017,Jack Stephens,23,Southampton,Defender
+1793,332,2017,Dale Stephens,28,Brighton,Midfielder
+1794,634,2017,Hector Bellerin,22,Arsenal,Defender
+1795,285,2017,Chris Wood,25,Burnley,Forward
+1796,297,2017,Ciaran Clark,27,Newcastle,Defender
+1797,583,2017,Georginio Wijnaldum,26,Liverpool,Midfielder
+1798,126,2017,Anthony Knockaert,25,Brighton,Midfielder
+1799,189,2017,Bernardo Silva,23,Man City,Midfielder
+1800,714,2017,James Milner,31,Liverpool,Midfielder
+1801,444,2017,Dusan Tadic,28,Southampton,Forward
+1802,1291,2017,Olivier Giroud,30,Chelsea,Forward
+1803,836,2017,Jonny Evans,29,WBA,Defender
+1804,1557,2017,Steve Mounie,22,Huddersfield,Forward
+1805,34,2017,Adrian,30,West Ham,Goalkeeper
+1806,1458,2017,Salomon Rondon,27,WBA,Forward
+1807,1564,2017,Steven Defour,29,Burnley,Midfielder
+1808,242,2017,Calum Chambers,22,Arsenal,Defender
+1809,53,2017,Aleksandar Dragovic,26,Leicester,Defender
+1810,371,2017,Daryl Janmaat,28,Watford,Defender
+1811,829,2017,Jonathan Hogg,28,Huddersfield,Midfielder
+1812,672,2017,Jack Butland,24,Stoke,Goalkeeper
+1813,862,2017,Jose Holebas,33,Watford,Defender
+1814,520,2017,Federico Fernandez,28,Swansea,Defender
+1815,1065,2017,Mame Diouf,29,Stoke,Forward
+1816,1327,2017,Paul Dummett,25,Newcastle,Defender
+1817,1089,2017,Marcus Rashford,19,Man Utd,Forward
+1818,958,2017,Kiko Femenia,26,Watford,Defender
+1819,269,2017,Charlie Taylor,23,Burnley,Defender
+1820,391,2017,DeAndre Yedlin,24,Newcastle,Defender
+1821,122,2017,Angelo Ogbonna,29,West Ham,Defender
+1822,390,2017,Davy Propper,25,Brighton,Midfielder
+1823,710,2017,James McArthur,29,Crystal Palace,Midfielder
+1824,1347,2017,Petr Cech,35,Arsenal,Goalkeeper
+1825,1313,2017,Pablo Zabaleta,32,West Ham,Defender
+1826,358,2017,Danny Rose,27,Tottenham,Defender
+1827,642,2017,Hugo Lloris,30,Tottenham,Goalkeeper
+1828,1681,2017,Wayne Hennessey,30,Crystal Palace,Goalkeeper
+1829,866,2017,Joselu,27,Newcastle,Forward
+1830,259,2017,Cenk Tosun,26,Everton,Forward
+1831,498,2017,Etienne Capoue,29,Watford,Midfielder
+1832,1190,2017,Michel Vorm,33,Tottenham,Goalkeeper
+1833,674,2017,Jack Cork,28,Burnley,Midfielder
+1834,1695,2017,Will Hughes,22,Watford,Midfielder
+1835,777,2017,Joao Mario,24,West Ham,Midfielder
+1836,155,2017,Ayoze Perez,24,Newcastle,Forward
+1837,1132,2017,Mathew Ryan,25,Brighton,Goalkeeper
+1838,1141,2017,Matt Phillips,26,WBA,Midfielder
+1839,1005,2017,Lewis Cook,20,Bournemouth,Midfielder
+1840,655,2017,Ilkay Gundogan,26,Man City,Midfielder
+1841,1111,2017,Martin Dubravka,28,Newcastle,Goalkeeper
+1842,25,2017,Adam Smith,26,Bournemouth,Defender
+1843,990,2017,Leighton Baines,32,Everton,Defender
+1844,112,2017,Andrew Surman,31,Bournemouth,Midfielder
+1845,492,2017,Erik Pieters,29,Stoke,Defender
+1846,435,2017,Dominic Calvert-Lewin,20,Everton,Forward
+1847,1447,2017,Ryan Fraser,23,Bournemouth,Midfielder
+1848,1733,2017,Zanka,27,Huddersfield,Defender
+1849,834,2017,Jonjo Shelvey,25,Newcastle,Midfielder
+1850,1460,2017,Sam Byram,23,West Ham,Defender
+1851,221,2017,Bruno,36,Brighton,Defender
+1852,150,2017,Ashley Williams,33,Everton,Defender
+1853,64,2017,Alex Pritchard,24,Huddersfield,Midfielder
+1854,1026,2017,Loris Karius,24,Liverpool,Goalkeeper
+1855,951,2017,Kieran Gibbs,27,WBA,Defender
+1856,1487,2017,Scott Dann,30,Crystal Palace,Defender
+1857,1405,2017,Rob Holding,21,Arsenal,Defender
+1858,115,2017,Andy Carroll,28,West Ham,Forward
+1859,2,2017,Aaron Cresswell,27,West Ham,Defender
+1860,452,2017,Ederson,24,Man City,Goalkeeper
+1861,1615,2017,Toby Alderweireld,28,Tottenham,Defender
+1862,1535,2017,Sofiane Boufal,23,Southampton,Forward
+1863,999,2017,Leroy Fer,27,Swansea,Midfielder
+1864,574,2017,Geoff Cameron,32,Stoke,Defender
+1865,726,2017,Jan Bednarek,21,Southampton,Defender
+1866,1341,2017,Per Mertesacker,32,Arsenal,Defender
+1867,1177,2017,Michael Carrick,36,Man Utd,Midfielder
+1868,197,2017,Boaz Myhill,34,WBA,Goalkeeper
+1869,1620,2017,Tom Cleverley,28,Watford,Midfielder
+1870,1335,2017,Pedro,30,Chelsea,Forward
+1871,1665,2017,Victor Lindelof,23,Man Utd,Defender
+1872,1445,2017,Ryan Bertrand,28,Southampton,Defender
+1873,754,2017,Jeffrey Schlupp,24,Crystal Palace,Midfielder
+1874,913,2017,Karl Darlow,26,Newcastle,Goalkeeper
+1875,42,2017,Ainsley Maitland-Niles,20,Arsenal,Midfielder
+1876,1085,2017,Marcos Rojo,27,Man Utd,Defender
+1877,962,2017,Konstantinos Stafylidis,23,Stoke,Defender
+1878,853,2017,Jordon Ibe,21,Bournemouth,Midfielder
+1879,1706,2017,Willy Caballero,35,Chelsea,Goalkeeper
+1880,35,2017,Adrian Mariappa,30,Watford,Defender
+1881,267,2017,Charlie Daniels,30,Bournemouth,Defender
+1882,467,2017,Emerson,23,Chelsea,Defender
+1883,1213,2017,Molla Wague,26,Watford,Defender
+1884,1668,2017,Victor Wanyama,26,Tottenham,Midfielder
+1885,639,2017,Heurelho Gomes,36,Watford,Goalkeeper
+1886,1302,2017,Oumar Niasse,27,Everton,Forward
+1887,96,2017,Andre Ayew,27,Swansea,Forward
+1888,1243,2017,Nathan Redmond,23,Southampton,Midfielder
+1889,1563,2017,Steven Davis,32,Southampton,Midfielder
+1890,1682,2017,Wayne Rooney,31,Everton,Forward
+1891,1155,2017,Matty James,26,Leicester,Midfielder
+1892,1485,2017,Scott Arfield,28,Burnley,Midfielder
+1893,1218,2017,Moritz Bauer,25,Stoke,Defender
+1894,845,2017,Jordan Pickford,23,Everton,Goalkeeper
+1895,1598,2017,Thibaut Courtois,25,Chelsea,Goalkeeper
+1896,894,2017,Julian Speroni,38,Crystal Palace,Goalkeeper
+1897,863,2017,Jose Izquierdo,25,Brighton,Forward
+1898,606,2017,Grzegorz Krychowiak,27,WBA,Midfielder
+1899,1707,2017,Winston Reid,29,West Ham,Defender
+1900,742,2017,Jay Rodriguez,28,WBA,Forward
+1901,607,2017,Guido Carrillo,26,Southampton,Forward
+1902,97,2017,Andre Carrillo,26,Watford,Midfielder
+1903,1145,2017,Matteo Darmian,27,Man Utd,Defender
+1904,969,2017,Kyle Bartley,26,Swansea,Defender
+1905,1642,2017,Troy Deeney,29,Watford,Forward
+1906,1686,2017,Wes Morgan,33,Leicester,Defender
+1907,1358,2017,Pierre-Emile Hoejbjerg,22,Southampton,Midfielder
+1908,387,2017,Davide Zappacosta,25,Chelsea,Defender
+1909,319,2017,Craig Cathcart,28,Watford,Defender
+1910,918,2017,Kasper Schmeichel,30,Leicester,Goalkeeper
+1911,947,2017,Ki Sung-Yueng,28,Swansea,Midfielder
+1912,93,2017,Ander Herrera,28,Man Utd,Midfielder
+1913,1539,2017,Solly March,23,Brighton,Midfielder
+1914,1630,2017,Tomer Hemed,30,Brighton,Forward
+1915,561,2017,Gaetan Bong,29,Brighton,Defender
+1916,593,2017,Glenn Murray,33,Brighton,Forward
+1917,719,2017,James Ward-Prowse,22,Southampton,Midfielder
+1918,4,2017,Aaron Lennon,30,Burnley,Midfielder
+1919,276,2017,Chicharito,29,West Ham,Forward
+1920,359,2017,Danny Simpson,30,Leicester,Defender
+1921,339,2017,Dan Gosling,27,Bournemouth,Midfielder
+1922,1523,2017,Shinji Okazaki,31,Leicester,Forward
+1923,977,2017,Laurent Depoitre,28,Huddersfield,Forward
+1924,83,2017,Allan-Romeo Nyom,29,WBA,Defender
+1925,257,2017,Cedric Soares,25,Southampton,Defender
+1926,1612,2017,Timothy Fosu-Mensah,19,Crystal Palace,Defender
+1927,147,2017,Ashley Barnes,27,Burnley,Forward
+1928,564,2017,Gareth Barry,36,WBA,Midfielder
+1929,1217,2017,Morgan Schneiderlin,27,Everton,Midfielder
+1930,825,2017,Jonas Lossl,28,Huddersfield,Goalkeeper
+1931,1499,2017,Sebastian Prodl,30,Watford,Defender
+1932,1367,2017,Rajiv van La Parra,26,Huddersfield,Midfielder
+1933,241,2017,Callum Wilson,25,Bournemouth,Forward
+1934,1461,2017,Sam Clucas,26,Swansea,Midfielder
+1935,1516,2017,Shane Long,30,Southampton,Forward
+1936,695,2017,Jake Livermore,27,WBA,Midfielder
+1937,660,2017,Isaac Hayden,22,Newcastle,Midfielder
+1938,265,2017,Charlie Austin,28,Southampton,Forward
+1939,60,2017,Alex McCarthy,27,Southampton,Goalkeeper
+1940,945,2017,Kevin Wimmer,24,Stoke,Defender
+1941,152,2017,Asmir Begovic,30,Bournemouth,Goalkeeper
+1942,491,2017,Erik Lamela,25,Tottenham,Midfielder
+1943,1619,2017,Tom Carroll,25,Swansea,Midfielder
+1944,361,2017,Danny Welbeck,26,Arsenal,Forward
+1945,281,2017,Chris Lowe,28,Huddersfield,Defender
+1946,548,2017,Fraser Forster,29,Southampton,Goalkeeper
+1947,1633,2017,Tommy Smith,25,Huddersfield,Defender
+1948,1414,2017,Roberto Pereyra,26,Watford,Midfielder
+1949,1193,2017,Miguel Britos,32,Watford,Defender
+1950,1720,2017,Yaya Toure,34,Man City,Midfielder
+1951,286,2017,Christian Atsu,25,Newcastle,Midfielder
+1952,534,2017,Florent Hadergjonaj,23,Huddersfield,Defender
+1953,168,2017,Ben Foster,34,WBA,Goalkeeper
+1954,740,2017,Javier Manquillo,23,Newcastle,Defender
+1955,445,2017,Dwight Gayle,27,Newcastle,Forward
+1956,1601,2017,Thomas Edwards,18,Stoke,Defender
+1957,1692,2017,Wilfried Bony,28,Swansea,Forward
+1958,627,2017,Harry Winks,21,Tottenham,Midfielder
+1959,396,2017,Declan Rice,18,West Ham,Midfielder
+1960,1275,2017,Nordin Amrabat,30,Watford,Forward
+1961,1531,2017,Simon Mignolet,29,Liverpool,Goalkeeper
+1962,367,2017,Darren Fletcher,33,Stoke,Midfielder
+1963,1029,2017,Lucas Moura,25,Tottenham,Forward
+1964,1490,2017,Scott McTominay,20,Man Utd,Midfielder
+1965,1352,2017,Philip Billing,21,Huddersfield,Midfielder
+1966,924,2017,Kelechi Iheanacho,20,Leicester,Forward
+1967,355,2017,Danny Drinkwater,27,Chelsea,Midfielder
+1968,715,2017,James Morrison,31,WBA,Midfielder
+1969,621,2017,Harry Arter,27,Bournemouth,Midfielder
+1970,1462,2017,Sam Field,19,WBA,Midfielder
+1971,1207,2017,Mohamed Elneny,25,Arsenal,Midfielder
+1972,542,2017,Fousseni Diabate,21,Leicester,Forward
+1973,1389,2017,Renato Sanches,20,Swansea,Midfielder
+1974,1223,2017,Moussa Sissoko,28,Tottenham,Midfielder
+1975,1622,2017,Tom Heaton,31,Burnley,Goalkeeper
+1976,1468,2017,Sam Vokes,27,Burnley,Forward
+1977,1103,2017,Markus Suttner,30,Brighton,Defender
+1978,461,2017,Elias Kachunga,25,Huddersfield,Forward
+1979,1369,2017,Ramadan Sobhi,20,Stoke,Midfielder
+1980,1624,2017,Tom Ince,25,Huddersfield,Midfielder
+1981,402,2017,Demarai Gray,21,Leicester,Forward
+1982,299,2017,Claudio Yacob,30,WBA,Midfielder
+1983,1384,2017,Reiss Nelson,17,Arsenal,Forward
+1984,1112,2017,Martin Kelly,27,Crystal Palace,Defender
+1985,55,2017,Aleksandar Mitrovic,22,Newcastle,Forward
+1986,763,2017,Jese,24,Stoke,Forward
+1987,226,2017,Bruno Martins Indi,25,Stoke,Defender
+1988,1578,2017,Sullay Kaikai,22,Crystal Palace,Forward
+1989,149,2017,Ashley Westwood,27,Burnley,Midfielder
+1990,1621,2017,Tom Davies,19,Everton,Midfielder
+1991,161,2017,Bakary Sako,29,Crystal Palace,Forward
+1992,116,2017,Andy King,28,Swansea,Midfielder
+1993,1585,2017,Tammy Abraham,19,Swansea,Forward
+1994,437,2017,Dominic Solanke,19,Liverpool,Forward
+1995,308,2017,Connor Goldson,24,Brighton,Defender
+1996,36,2017,Adrien Silva,28,Leicester,Midfielder
+1997,503,2017,Ezequiel Schelotto,28,Brighton,Defender
+1998,453,2017,Edimilson Fernandes,21,West Ham,Midfielder
+1999,307,2017,Collin Quaner,26,Huddersfield,Forward
+2000,344,2017,Daniel Amartey,22,Leicester,Defender
+2001,1191,2017,Michy Batshuayi,23,Chelsea,Forward
+2002,713,2017,James McClean,28,WBA,Midfielder
+2003,1488,2017,Scott Malone,26,Huddersfield,Defender
+2004,760,2017,Jermain Defoe,34,Bournemouth,Forward
+2005,236,2017,Callum Hudson-Odoi,16,Chelsea,Forward
+2006,1019,2017,Liam Rosenior,33,Brighton,Defender
+2007,1431,2017,Ross Barkley,23,Chelsea,Midfielder
+2008,1655,2017,Uwe Hunemeier,31,Brighton,Defender
+2009,1546,2017,Stefano Okaka,28,Watford,Forward
+2010,1371,2017,Ramiro Funes Mori,26,Everton,Defender
+2011,1271,2017,Nikola Vlasic,19,Everton,Midfielder
+2012,310,2017,Connor Roberts,21,Swansea,Defender
+2013,362,2017,Danny Williams,28,Huddersfield,Midfielder
+2014,1298,2017,Orestis Karnezis,32,Watford,Goalkeeper
+2015,270,2017,Charly Musonda,20,Chelsea,Midfielder
+2016,1716,2017,Yannick Bolasie,28,Everton,Forward
+2017,751,2017,Jeff Hendrick,25,Burnley,Midfielder
+2018,357,2017,Danny Ings,25,Liverpool,Forward
+2019,1115,2017,Martin Olsson,29,Swansea,Defender
+2020,1033,2017,Luciano Narsingh,26,Swansea,Forward
+2021,691,2017,Jairo Riedewald,20,Crystal Palace,Midfielder
+2022,917,2017,Kasey Palmer,20,Huddersfield,Midfielder
+2023,1229,2017,Nacer Chadli,28,WBA,Midfielder
+2024,31,2017,Ademola Lookman,19,Everton,Forward
+2025,1385,2017,Rekeem Harper,17,WBA,Midfielder
+2026,264,2017,Charlie Adam,31,Stoke,Midfielder
+2027,1076,2017,Marc Pugh,30,Bournemouth,Midfielder
+2028,1066,2017,Manolo Gabbiadini,25,Southampton,Forward
+2029,1349,2017,Phil Foden,17,Man City,Midfielder
+2030,961,2017,Konstantinos Mavropanos,19,Arsenal,Defender
+2031,10,2017,Abdelhamid Sabiri,20,Huddersfield,Midfielder
+2032,685,2017,Jacob Murphy,22,Newcastle,Midfielder
+2033,1321,2017,Patrice Evra,36,West Ham,Defender
+2034,176,2017,Ben Watson,32,Watford,Midfielder
+2035,1056,2017,Lys Mousset,21,Bournemouth,Forward
+2036,613,2017,Hal Robson-Kanu,28,WBA,Forward
+2037,1430,2017,Roque Mesa,28,Swansea,Midfielder
+2038,1239,2017,Nathan Dyer,29,Swansea,Midfielder
+2039,879,2017,Josh Sims,20,Southampton,Midfielder
+2040,1247,2017,Nathaniel Clyne,26,Liverpool,Defender
+2041,998,2017,Leonardo Ulloa,31,Brighton,Forward
+2042,616,2017,Hamza Choudhury,19,Leicester,Midfielder
+2043,790,2017,Joe Hart,30,West Ham,Goalkeeper
+2044,1422,2017,Rolando Aarons,21,Newcastle,Midfielder
+2045,185,2017,Beram Kayal,29,Brighton,Midfielder
+2046,995,2017,Leon Britton,34,Swansea,Midfielder
+2047,335,2017,Damien Delaney,36,Crystal Palace,Defender
+2048,1287,2017,Oliver McBurnie,21,Swansea,Forward
+2049,712,2017,James McCarthy,26,Everton,Midfielder
+2050,986,2017,Lee Grant,34,Stoke,Goalkeeper
+2051,1286,2017,Oliver Burke,20,WBA,Forward
+2052,1002,2017,Levi Lumeka,18,Crystal Palace,Forward
+2053,592,2017,Glen Johnson,33,Stoke,Defender
+2054,99,2017,Andre Gray,26,Watford,Forward
+2055,1224,2017,Muhamed Besic,24,Everton,Midfielder
+2056,495,2017,Ethan Ampadu,16,Chelsea,Defender
+2057,565,2017,Gareth McAuley,37,WBA,Defender
+2058,1466,2017,Sam McQueen,22,Southampton,Defender
+2059,22,2017,Adam Lallana,29,Liverpool,Midfielder
+2060,1109,2017,Martin Cranie,30,Huddersfield,Defender
+2061,581,2017,Georges-Kevin Nkoudou,22,Burnley,Midfielder
+2062,1654,2017,Tyrone Mings,24,Bournemouth,Defender
+2063,1734,2017,Zlatan Ibrahimovic,35,Man Utd,Forward
+2064,526,2017,Fernando Llorente,32,Tottenham,Forward
+2065,432,2017,Dodi Lukebakio,19,Watford,Forward
+2066,181,2017,Benik Afobe,24,Bournemouth,Forward
+2067,665,2017,Islam Slimani,29,Newcastle,Forward
+2068,1382,2017,Reece Oxford,18,West Ham,Defender
+2069,940,2017,Kevin Mirallas,29,Everton,Midfielder
+2070,664,2017,Isaiah Brown,20,Brighton,Midfielder
+2071,120,2017,Angel Rangel,34,Swansea,Defender
+2072,793,2017,Joe Lolley,25,Huddersfield,Forward
+2073,871,2017,Josh Cullen,21,West Ham,Midfielder
+2074,412,2017,Diafra Sakho,27,West Ham,Forward
+2075,902,2017,Jurgen Locadia,23,Brighton,Forward
+2076,179,2017,Ben Woodburn,17,Liverpool,Midfielder
+2077,544,2017,Francis Coquelin,26,Arsenal,Midfielder
+2078,1683,2017,Wayne Routledge,32,Swansea,Midfielder
+2079,389,2017,Davy Klaassen,24,Everton,Midfielder
+2080,1101,2017,Marko Grujic,21,Liverpool,Midfielder
+2081,201,2017,Bojan,27,Stoke,Forward
+2082,761,2017,Jerome Sinclair,20,Watford,Forward
+2083,843,2017,Jordan Hugill,25,West Ham,Forward
+2084,1549,2017,Stephen Ireland,31,Stoke,Midfielder
+2085,353,2017,Daniel Sturridge,27,WBA,Forward
+2086,180,2017,Beni Baningime,18,Everton,Midfielder
+2087,1651,2017,Tyrese Campbell,17,Stoke,Forward
+2088,210,2017,Brahim Diaz,18,Man City,Midfielder
+2089,722,2017,Jamie Murphy,28,Brighton,Forward
+2090,737,2017,Jason Puncheon,31,Crystal Palace,Midfielder
+2091,1457,2017,Saido Berahino,24,Stoke,Forward
+2092,449,2017,Eddie Nketiah,18,Arsenal,Forward
+2093,1316,2017,Pape Souare,27,Crystal Palace,Defender
+2094,798,2017,Joe Willock,18,Arsenal,Midfielder
+2095,1124,2017,Massadio Haidara,24,Newcastle,Defender
+2096,756,2017,Jeremie Boga,20,Chelsea,Forward
+2097,1231,2017,Nahki Wells,27,Burnley,Forward
+2098,395,2017,Dean Whitehead,35,Huddersfield,Midfielder
+2099,1479,2017,Sandro Ramirez,22,Everton,Forward
+2100,628,2017,Harvey Barnes,19,Leicester,Midfielder
+2101,468,2017,Emerson Hyndman,21,Bournemouth,Midfielder
+2102,153,2017,Axel Tuanzebe,19,Man Utd,Defender
+2103,446,2017,Dwight McNeil,17,Burnley,Forward
+2104,1670,2017,Vincent Janssen,23,Tottenham,Forward
+2105,646,2017,Ibrahim Afellay,31,Stoke,Midfielder
+2106,985,2017,Lee Chung-Yong,29,Crystal Palace,Midfielder
+2107,1041,2017,Lukas Nmecha,18,Man City,Forward
+2108,171,2017,Ben Hamer,29,Leicester,Goalkeeper
+2109,741,2017,Jay Fulton,23,Swansea,Midfielder
+2110,833,2017,Jonathan Walters,33,Burnley,Forward
+2111,681,2017,Jack Simpson,20,Bournemouth,Defender
+2112,1459,2017,Sam Baldock,28,Brighton,Forward
+2113,550,2017,Freddie Ladapo,24,Crystal Palace,Forward
+2114,895,2017,Julien Ngoy,19,Stoke,Forward
+2115,1187,2017,Michael Obafemi,17,Southampton,Forward
+2116,1183,2017,Michael Hefele,26,Huddersfield,Defender
+2117,429,2017,Divock Origi,22,Liverpool,Forward
+2118,880,2017,Josh Tymon,18,Stoke,Defender
+2119,460,2017,Eliaquim Mangala,26,Everton,Defender
