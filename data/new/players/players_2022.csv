@@ -1,556 +1,568 @@
 ,No.,Year,Name,Age,Team,Position
-4187,151,2022,Asmir Begovic,35,Everton,Goalkeeper
-4188,922,2022,Kevin De Bruyne,31,Man City,Midfielder
-4189,486,2022,Erling Haaland,22,Man City,Forward
-4190,613,2022,Harry Kane,29,Tottenham,Forward
-4191,222,2022,Bruno Fernandes,27,Man Utd,Midfielder
-4192,547,2022,Gabriel Jesus,25,Arsenal,Forward
-4193,229,2022,Bukayo Saka,20,Arsenal,Midfielder
-4194,1521,2022,Solly March,28,Brighton,Midfielder
-4195,665,2022,Jack Grealish,26,Man City,Midfielder
-4196,1099,2022,Martin Oedegaard,23,Arsenal,Midfielder
-4197,1401,2022,Rodri,26,Man City,Midfielder
-4198,549,2022,Gabriel Martinelli,21,Arsenal,Forward
-4199,660,2022,Ivan Toney,26,Brentford,Forward
-4200,798,2022,Joelinton,26,Newcastle,Forward
-4201,699,2022,James Maddison,25,Leicester,Midfielder
-4202,1403,2022,Rodrigo Bentancur,25,Tottenham,Midfielder
-4203,223,2022,Bruno Guimaraes,24,Newcastle,Midfielder
-4204,255,2022,Casemiro,30,Man Utd,Midfielder
-4205,1193,2022,Mohamed Salah,30,Liverpool,Forward
-4206,1331,2022,Phil Foden,22,Man City,Midfielder
-4207,645,2022,Ilkay Gundogan,31,Man City,Midfielder
-4208,1618,2022,Trent Alexander-Arnold,23,Liverpool,Defender
-4209,490,2022,Ethan Pinnock,29,Brentford,Defender
-4210,54,2022,Aleksandar Mitrovic,27,Fulham,Forward
-4211,1074,2022,Marcus Rashford,24,Man Utd,Forward
-4212,1363,2022,Reece James,22,Chelsea,Defender
-4213,1583,2022,Thomas Partey,29,Arsenal,Midfielder
-4214,514,2022,Felipe,33,Nottingham Forest,Defender
-4215,303,2022,Cody Gakpo,23,Liverpool,Forward
-4216,65,2022,Alexander Isak,22,Newcastle,Forward
-4217,72,2022,Alexis Mac Allister,23,Brighton,Midfielder
-4218,501,2022,Fabian Schar,30,Newcastle,Defender
-4219,763,2022,Joao Cancelo,28,Man City,Defender
-4220,1340,2022,Pierre-Emile Hoejbjerg,27,Tottenham,Midfielder
-4221,442,2022,Eberechi Eze,24,Crystal Palace,Midfielder
-4222,1386,2022,Riyad Mahrez,31,Man City,Forward
-4223,393,2022,Declan Rice,23,West Ham,Midfielder
-4224,227,2022,Bryan Mbeumo,23,Brentford,Midfielder
-4225,1699,2022,Yerry Mina,27,Everton,Defender
-4226,172,2022,Ben Mee,32,Brentford,Defender
-4227,899,2022,Kaoru Mitoma,25,Brighton,Midfielder
-4228,335,2022,Dan Bentley,29,Wolves,Goalkeeper
-4229,1301,2022,Pascal Gross,31,Brighton,Midfielder
-4230,440,2022,Dwight McNeil,22,Everton,Forward
-4231,1172,2022,Michael Olise,20,Crystal Palace,Midfielder
-4232,1681,2022,Willian,34,Fulham,Forward
-4233,970,2022,Leandro Trossard,27,Brighton,Forward
-4234,919,2022,Kenny Tete,26,Fulham,Defender
-4235,1578,2022,Thiago Silva,37,Chelsea,Defender
-4236,593,2022,Granit Xhaka,29,Arsenal,Midfielder
-4237,1096,2022,Martin Dubravka,33,Newcastle,Goalkeeper
-4238,707,2022,James Tarkowski,29,Everton,Defender
-4239,1022,2022,Luis Diaz,25,Liverpool,Forward
-4240,381,2022,David Raya,26,Brentford,Goalkeeper
-4241,1016,2022,Lucas Paqueta,25,West Ham,Midfielder
-4242,1650,2022,Virgil van Dijk,31,Liverpool,Defender
-4243,1275,2022,Ollie Watkins,26,Aston Villa,Forward
-4244,420,2022,Diogo Dalot,23,Man Utd,Defender
-4245,1321,2022,Pedro Porro,22,Tottenham,Defender
-4246,709,2022,James Ward-Prowse,27,Southampton,Midfielder
-4247,1417,2022,Ruben Neves,25,Wolves,Midfielder
-4248,1075,2022,Marcus Tavernier,23,Bournemouth,Midfielder
-4249,1522,2022,Son Heung-Min,30,Tottenham,Forward
-4250,1209,2022,N'Golo Kante,31,Chelsea,Midfielder
-4251,189,2022,Bernd Leno,30,Fulham,Goalkeeper
-4252,436,2022,Douglas Luiz,24,Aston Villa,Midfielder
-4253,768,2022,Joao Palhinha,27,Fulham,Midfielder
-4254,9,2022,Aaron Wan-Bissaka,24,Man Utd,Defender
-4255,77,2022,Alisson Becker,29,Liverpool,Goalkeeper
-4256,240,2022,Callum Wilson,30,Newcastle,Forward
-4257,1196,2022,Moises Caicedo,20,Brighton,Midfielder
-4258,1176,2022,Miguel Almiron,28,Newcastle,Midfielder
-4259,183,2022,Benoit Badiashile,21,Chelsea,Defender
-4260,1666,2022,Wesley Fofana,21,Leicester,Defender
-4261,290,2022,Christian Noergaard,28,Brentford,Midfielder
-4262,1038,2022,Luke Shaw,27,Man Utd,Defender
-4263,787,2022,Joe Willock,23,Newcastle,Midfielder
-4264,995,2022,Lewis Hall,17,Chelsea,Defender
-4265,467,2022,Emiliano Martinez,29,Aston Villa,Goalkeeper
-4266,548,2022,Gabriel Magalhaes,24,Arsenal,Defender
-4267,1268,2022,Oleksandr Zinchenko,25,Arsenal,Defender
-4268,676,2022,Jacob Ramsey,21,Aston Villa,Midfielder
-4269,1394,2022,Roberto Firmino,30,Liverpool,Forward
-4270,1487,2022,Serge Aurier,29,Nottingham Forest,Defender
-4271,970,2022,Leandro Trossard,27,Arsenal,Forward
-4272,1007,2022,Lisandro Martinez,24,Man Utd,Defender
-4273,894,2022,Kalidou Koulibaly,31,Chelsea,Defender
-4274,1199,2022,Morgan Gibbs-White,22,Nottingham Forest,Midfielder
-4275,679,2022,Jadon Sancho,22,Man Utd,Forward
-4276,232,2022,Caglar Soyuncu,26,Leicester,Defender
-4277,135,2022,Antony,22,Man Utd,Forward
-4278,1168,2022,Michael Keane,29,Everton,Defender
-4279,57,2022,Alex Iwobi,26,Everton,Forward
-4280,762,2022,Joachim Andersen,26,Crystal Palace,Defender
-4281,1577,2022,Thiago Alcantara,31,Liverpool,Midfielder
-4282,1672,2022,Wilfried Zaha,29,Crystal Palace,Forward
-4283,1334,2022,Philip Billing,26,Bournemouth,Midfielder
-4284,804,2022,John McGinn,27,Aston Villa,Midfielder
-4285,1117,2022,Mathias Jensen,26,Brentford,Midfielder
-4286,723,2022,Jarrod Bowen,25,West Ham,Forward
-4287,920,2022,Kepa,27,Chelsea,Goalkeeper
-4288,188,2022,Bernardo Silva,28,Man City,Midfielder
-4289,1610,2022,Tomas Soucek,27,West Ham,Midfielder
-4290,80,2022,Allan Saint-Maximin,25,Newcastle,Forward
-4291,1257,2022,Noni Madueke,20,Chelsea,Forward
-4292,830,2022,Jordan Ayew,30,Crystal Palace,Forward
-4293,478,2022,Enzo Fernandez,21,Chelsea,Midfielder
-4294,808,2022,John Stones,28,Man City,Defender
-4295,1706,2022,Youri Tielemans,25,Leicester,Midfielder
-4296,323,2022,Cristian Romero,24,Tottenham,Defender
-4297,1415,2022,Ruben Dias,25,Man City,Defender
-4298,606,2022,Hamed Traore,22,Bournemouth,Midfielder
-4299,367,2022,Darwin Nunez,23,Liverpool,Forward
-4300,1325,2022,Pervis Estupinan,24,Brighton,Defender
-4301,432,2022,Dominic Solanke,24,Bournemouth,Forward
-4302,640,2022,Ibrahima Konate,23,Liverpool,Defender
-4303,176,2022,Ben White,24,Arsenal,Defender
-4304,116,2022,Andy Robertson,28,Liverpool,Defender
-4305,1194,2022,Mohammed Salisu,23,Southampton,Defender
-4306,1679,2022,William Saliba,21,Arsenal,Defender
-4307,462,2022,Emerson Royal,23,Tottenham,Defender
-4308,883,2022,Julio Enciso,18,Brighton,Forward
-4309,336,2022,Dan Burn,30,Newcastle,Defender
-4310,396,2022,Dejan Kulusevski,22,Tottenham,Midfielder
-4311,1244,2022,Neto,33,Bournemouth,Goalkeeper
-4312,1639,2022,Vicente Guaita,35,Crystal Palace,Goalkeeper
-4313,359,2022,Danny Welbeck,31,Brighton,Forward
-4314,1218,2022,Nathan Ake,27,Man City,Defender
-4315,892,2022,Kai Havertz,23,Chelsea,Midfielder
-4316,1633,2022,Tyrone Mings,29,Aston Villa,Defender
-4317,1560,2022,Sven Botman,22,Newcastle,Defender
-4318,130,2022,Antonee Robinson,25,Fulham,Defender
-4319,659,2022,Ivan Perisic,33,Tottenham,Midfielder
-4320,339,2022,Dango Ouattara,20,Bournemouth,Forward
-4321,698,2022,James Justin,24,Leicester,Defender
-4322,1348,2022,Raheem Sterling,27,Chelsea,Forward
-4323,421,2022,Diogo Jota,25,Liverpool,Forward
-4324,728,2022,Jason Steele,32,Brighton,Goalkeeper
-4325,1447,2022,Sam Johnstone,29,Crystal Palace,Goalkeeper
-4326,1624,2022,Tyler Adams,23,Leeds,Midfielder
-4327,105,2022,Andreas Pereira,26,Fulham,Midfielder
-4328,666,2022,Jack Harrison,25,Leeds,Midfielder
-4329,271,2022,Cheick Doucoure,22,Crystal Palace,Midfielder
-4330,1616,2022,Tosin Adarabioyo,24,Fulham,Defender
-4331,140,2022,Armel Bella-Kotchap,20,Southampton,Defender
-4332,61,2022,Alex Moreno,29,Aston Villa,Defender
-4333,1503,2022,Shea Charles,18,Man City,Midfielder
-4334,502,2022,Fabinho,28,Liverpool,Midfielder
-4335,1592,2022,Timothy Castagne,26,Leicester,Defender
-4336,352,2022,Danilo,21,Nottingham Forest,Midfielder
-4337,1122,2022,Matt Doherty,30,Tottenham,Defender
-4338,91,2022,Amadou Onana,21,Everton,Midfielder
-4339,1643,2022,Victor Lindelof,28,Man Utd,Defender
-4340,1246,2022,Nick Pope,30,Newcastle,Goalkeeper
-4341,942,2022,Kiernan Dewsbury-Hall,23,Leicester,Midfielder
-4342,1438,2022,Said Benrahma,27,West Ham,Forward
-4343,465,2022,Emiliano Buendia,25,Aston Villa,Midfielder
-4344,1107,2022,Mason Mount,23,Chelsea,Midfielder
-4345,287,2022,Christian Eriksen,30,Man Utd,Midfielder
-4346,153,2022,Aymeric Laporte,28,Man City,Defender
-4347,834,2022,Jordan Pickford,28,Everton,Goalkeeper
-4348,778,2022,Joe Gomez,25,Liverpool,Defender
-4349,955,2022,Kurt Zouma,27,West Ham,Defender
-4350,1058,2022,Marc Guehi,22,Crystal Palace,Defender
-4351,1402,2022,Rodrigo,31,Leeds,Forward
-4352,1366,2022,Reiss Nelson,22,Arsenal,Forward
-4353,1030,2022,Lukasz Fabianski,37,West Ham,Goalkeeper
-4354,1233,2022,Nayef Aguerd,26,West Ham,Defender
-4355,329,2022,Curtis Jones,21,Liverpool,Midfielder
-4356,493,2022,Evan Ferguson,17,Brighton,Forward
-4357,741,2022,Jefferson Lerma,27,Bournemouth,Midfielder
-4358,383,2022,David de Gea,31,Man Utd,Goalkeeper
-4359,716,2022,Jan Bednarek,26,Southampton,Defender
-4360,1302,2022,Pascal Struijk,23,Leeds,Defender
-4361,481,2022,Eric Dier,28,Tottenham,Defender
-4362,743,2022,Jeffrey Schlupp,29,Crystal Palace,Midfielder
-4363,619,2022,Harvey Barnes,24,Leicester,Midfielder
-4364,1687,2022,Wout Faes,24,Leicester,Defender
-4365,641,2022,Idrissa Gueye,32,Everton,Midfielder
-4366,1057,2022,Marc Cucurella,24,Chelsea,Defender
-4367,846,2022,Jorginho,30,Chelsea,Midfielder
-4368,797,2022,Joel Ward,32,Crystal Palace,Defender
-4369,1666,2022,Wesley Fofana,21,Chelsea,Defender
-4370,657,2022,Issa Diop,25,Fulham,Defender
-4371,1354,2022,Raphael Varane,29,Man Utd,Defender
-4372,1382,2022,Rico Henry,25,Brentford,Defender
-4373,1065,2022,Marcel Sabitzer,28,Man Utd,Midfielder
-4374,1476,2022,Sean Longstaff,24,Newcastle,Midfielder
-4375,1629,2022,Tyrell Malacia,23,Man Utd,Defender
-4376,1656,2022,Vladimir Coufal,30,West Ham,Defender
-4377,615,2022,Harry Souttar,23,Leicester,Defender
-4378,1150,2022,Maximilian Wober,24,Leeds,Defender
-4379,1652,2022,Vitaly Janelt,24,Brentford,Midfielder
-4380,165,2022,Ben Davies,29,Tottenham,Defender
-4381,1149,2022,Maximilian Kilman,25,Wolves,Defender
-4382,1113,2022,Matheus Cunha,23,Wolves,Forward
-4383,6,2022,Aaron Ramsdale,24,Arsenal,Goalkeeper
-4384,764,2022,Joao Felix,22,Chelsea,Forward
-4385,1356,2022,Rasmus Kristensen,25,Leeds,Defender
-4386,430,2022,Dominic Calvert-Lewin,25,Everton,Forward
-4387,896,2022,Kamaldeen Sulemana,20,Southampton,Midfielder
-4388,993,2022,Lewis Dunk,30,Brighton,Defender
-4389,1617,2022,Toti Gomes,23,Wolves,Defender
-4390,1054,2022,Manuel Akanji,27,Man City,Defender
-4391,1001,2022,Liam Cooper,30,Leeds,Defender
-4392,319,2022,Craig Dawson,32,Wolves,Defender
-4393,164,2022,Ben Chilwell,25,Chelsea,Defender
-4394,124,2022,Anthony Gordon,21,Everton,Forward
-4395,1399,2022,Robin Olsen,32,Aston Villa,Goalkeeper
-4396,1683,2022,Willy Boly,31,Nottingham Forest,Defender
-4397,399,2022,Demarai Gray,26,Everton,Forward
-4398,2,2022,Aaron Cresswell,32,West Ham,Defender
-4399,979,2022,Leon Bailey,25,Aston Villa,Midfielder
-4400,846,2022,Jorginho,30,Arsenal,Midfielder
-4401,1114,2022,Matheus Nunes,24,Wolves,Midfielder
-4402,688,2022,Jakub Kiwior,22,Arsenal,Defender
-4403,1235,2022,Neco Williams,21,Nottingham Forest,Defender
-4404,1009,2022,Lloyd Kelly,23,Bournemouth,Defender
-4405,796,2022,Joel Veltman,30,Brighton,Defender
-4406,202,2022,Boubacar Kamara,22,Aston Villa,Midfielder
-4407,270,2022,Che Adams,26,Southampton,Forward
-4408,126,2022,Anthony Martial,26,Man Utd,Forward
-4409,632,2022,Hugo Lloris,35,Tottenham,Goalkeeper
-4410,614,2022,Harry Maguire,29,Man Utd,Defender
-4411,1651,2022,Vitalii Mykolenko,23,Everton,Defender
-4412,1341,2022,Pontus Jansson,31,Brentford,Defender
-4413,281,2022,Chris Mepham,24,Bournemouth,Defender
-4414,247,2022,Caoimhin Kelleher,23,Liverpool,Goalkeeper
-4415,150,2022,Ashley Young,37,Aston Villa,Defender
-4416,1024,2022,Luis Sinisterra,23,Leeds,Forward
-4417,788,2022,Joe Worrall,25,Nottingham Forest,Defender
-4418,933,2022,Keylor Navas,35,Nottingham Forest,Goalkeeper
-4419,961,2022,Kyle Walker-Peters,25,Southampton,Defender
-4420,498,2022,Ezri Konsa,24,Aston Villa,Defender
-4421,390,2022,Dean Henderson,25,Nottingham Forest,Goalkeeper
-4422,831,2022,Jordan Henderson,32,Liverpool,Midfielder
-4423,1428,2022,Ryan Christie,27,Bournemouth,Midfielder
-4424,1383,2022,Rico Lewis,17,Man City,Defender
-4425,1137,2022,Matty Cash,25,Aston Villa,Defender
-4426,1409,2022,Romeo Lavia,18,Southampton,Midfielder
-4427,1416,2022,Ruben Loftus-Cheek,26,Chelsea,Midfielder
-4428,1475,2022,Seamus Coleman,33,Everton,Defender
-4429,355,2022,Danny Ings,30,Aston Villa,Forward
-4430,765,2022,Joao Gomes,21,Wolves,Midfielder
-4431,1032,2022,Luke Ayling,31,Leeds,Defender
-4432,1472,2022,Scott McTominay,25,Man Utd,Midfielder
-4433,968,2022,Leander Dendoncker,27,Wolves,Midfielder
-4434,773,2022,Joe Aribo,26,Southampton,Midfielder
-4435,154,2022,Ayoze Perez,29,Leicester,Forward
-4436,299,2022,Clement Lenglet,27,Tottenham,Defender
-4437,987,2022,Levi Colwill,19,Brighton,Defender
-4438,1370,2022,Renan Lodi,24,Nottingham Forest,Defender
-4439,314,2022,Conor Gallagher,22,Chelsea,Midfielder
-4440,1525,2022,Stefan Bajcetic,17,Liverpool,Midfielder
-4441,960,2022,Kyle Walker,32,Man City,Defender
-4442,342,2022,Daniel Amartey,27,Leicester,Defender
-4443,1632,2022,Tyrick Mitchell,22,Crystal Palace,Defender
-4444,121,2022,Angelo Ogbonna,34,West Ham,Defender
-4445,1455,2022,Samuel Amo-Ameyaw,16,Southampton,Forward
-4446,854,2022,Jose Sa,29,Wolves,Goalkeeper
-4447,620,2022,Harvey Elliott,19,Liverpool,Midfielder
-4448,1071,2022,Marcos Senesi,25,Bournemouth,Defender
-4449,1199,2022,Morgan Gibbs-White,22,Wolves,Midfielder
-4450,25,2022,Adam Webster,27,Brighton,Defender
-4451,1053,2022,Manor Solomon,23,Fulham,Forward
-4452,1398,2022,Robin Koch,26,Leeds,Defender
-4453,259,2022,Cesar Azpilicueta,33,Chelsea,Defender
-4454,1359,2022,Rayan Ait-Nouri,21,Wolves,Defender
-4455,1121,2022,Matias Vina,24,Bournemouth,Defender
-4456,1701,2022,Yoane Wissa,25,Brentford,Midfielder
-4457,1225,2022,Nathan Patterson,20,Everton,Defender
-4458,673,2022,Jack Stephens,28,Bournemouth,Defender
-4459,302,2022,Cody Drameh,20,Leeds,Defender
-4460,350,2022,Daniel Podence,26,Wolves,Midfielder
-4461,767,2022,Joao Moutinho,35,Wolves,Midfielder
-4462,579,2022,Gianluca Scamacca,23,West Ham,Forward
-4463,792,2022,Joel Matip,31,Liverpool,Defender
-4464,1580,2022,Thilo Kehrer,25,West Ham,Defender
-4465,1062,2022,Marc Roca,25,Leeds,Midfielder
-4466,1241,2022,Nelson Semedo,28,Wolves,Defender
-4467,611,2022,Harrison Reed,27,Fulham,Midfielder
-4468,41,2022,Ainsley Maitland-Niles,25,Southampton,Midfielder
-4469,250,2022,Carlos Alcaraz,19,Southampton,Midfielder
-4470,1669,2022,Wilfred Ndidi,25,Leicester,Midfielder
-4471,1563,2022,Taiwo Awoniyi,25,Nottingham Forest,Forward
-4472,204,2022,Boubakary Soumare,23,Leicester,Midfielder
-4473,1131,2022,Matthew Craig,19,Tottenham,Midfielder
-4474,218,2022,Brennan Johnson,21,Nottingham Forest,Forward
-4475,825,2022,Jonny Evans,34,Leicester,Defender
-4476,371,2022,David Datro Fofana,19,Chelsea,Forward
-4477,1173,2022,Michail Antonio,32,West Ham,Forward
-4478,1221,2022,Nathan Collins,21,Wolves,Defender
-4479,1573,2022,Tete,22,Leicester,Forward
-4480,1192,2022,Mohamed Elyounoussi,28,Southampton,Midfielder
-4481,28,2022,Adama Traore,26,Wolves,Forward
-4482,542,2022,Fred,29,Man Utd,Midfielder
-4483,1206,2022,Moussa Niakhate,26,Nottingham Forest,Defender
-4484,11,2022,Abdoulaye Doucoure,29,Everton,Midfielder
-4485,951,2022,Kostas Tsimikas,26,Liverpool,Defender
-4486,1111,2022,Mateo Kovacic,28,Chelsea,Midfielder
-4487,1671,2022,Wilfried Gnonto,18,Leeds,Forward
-4488,1280,2022,Orel Mangala,24,Nottingham Forest,Midfielder
-4489,541,2022,Fraser Forster,34,Tottenham,Goalkeeper
-4490,1040,2022,Lyanco,25,Southampton,Defender
-4491,385,2022,Davinson Sanchez,26,Tottenham,Defender
-4492,911,2022,Kelechi Iheanacho,25,Leicester,Forward
-4493,1619,2022,Trevoh Chalobah,23,Chelsea,Defender
-4494,839,2022,Jordan Zemura,22,Bournemouth,Defender
-4495,413,2022,Diego Llorente,29,Leeds,Defender
-4496,1405,2022,Romain Perraud,24,Southampton,Defender
-4497,358,2022,Danny Ward,29,Leicester,Goalkeeper
-4498,1380,2022,Richarlison,25,Tottenham,Forward
-4499,198,2022,Bobby De Cordova-Reid,29,Fulham,Forward
-4500,325,2022,Crysencio Summerville,20,Leeds,Forward
-4501,1436,2022,Ryan Yates,24,Nottingham Forest,Midfielder
-4502,827,2022,Jonny Otto,28,Wolves,Defender
-4503,1205,2022,Moussa Djenepo,24,Southampton,Midfielder
-4504,1056,2022,Marc Albrighton,32,Leicester,Midfielder
-4505,1078,2022,Mario Lemina,28,Wolves,Midfielder
-4506,21,2022,Adam Lallana,34,Brighton,Midfielder
-4507,3,2022,Aaron Hickey,20,Brentford,Defender
-4508,1308,2022,Patson Daka,23,Leicester,Forward
-4509,603,2022,Hakim Ziyech,29,Chelsea,Midfielder
-4510,929,2022,Kevin Schade,20,Brentford,Midfielder
-4511,312,2022,Conor Coady,29,Everton,Defender
-4512,1595,2022,Tino Livramento,19,Southampton,Defender
-4513,861,2022,Josh Dasilva,23,Brentford,Midfielder
-4514,785,2022,Joe Rothwell,27,Bournemouth,Midfielder
-4515,346,2022,Daniel James,24,Leeds,Midfielder
-4516,446,2022,Ederson,29,Man City,Goalkeeper
-4517,443,2022,Eddie Nketiah,23,Arsenal,Forward
-4518,1312,2022,Paul Onuachu,28,Southampton,Forward
-4519,564,2022,Gavin Bazunu,20,Southampton,Goalkeeper
-4520,617,2022,Harry Wilson,25,Fulham,Midfielder
-4521,675,2022,Jacob Murphy,27,Newcastle,Midfielder
-4522,1047,2022,Mads Roerslev,23,Brentford,Defender
-4523,696,2022,James Garner,21,Everton,Midfielder
-4524,631,2022,Hugo Bueno,19,Wolves,Defender
-4525,1263,2022,Odsonne Edouard,24,Crystal Palace,Forward
-4526,1039,2022,Luke Thomas,21,Leicester,Defender
-4527,226,2022,Bryan Gil,21,Tottenham,Forward
-4528,1659,2022,Wayne Hennessey,35,Nottingham Forest,Goalkeeper
-4529,45,2022,Albert Sambi Lokonga,22,Crystal Palace,Midfielder
-4530,470,2022,Emmanuel Dennis,24,Nottingham Forest,Forward
-4531,646,2022,Illan Meslier,22,Leeds,Goalkeeper
-4532,1392,2022,Robert Sanchez,24,Brighton,Goalkeeper
-4533,319,2022,Craig Dawson,32,West Ham,Defender
-4534,1668,2022,Weston McKennie,24,Leeds,Midfielder
-4535,795,2022,Joel Robles,32,Leeds,Goalkeeper
-4536,1273,2022,Oliver Skipp,21,Tottenham,Midfielder
-4537,460,2022,Emerson,28,West Ham,Defender
-4538,885,2022,Junior Firpo,26,Leeds,Defender
-4539,217,2022,Brenden Aaronson,21,Leeds,Midfielder
-4540,477,2022,Enock Mwepu,24,Brighton,Midfielder
-4541,1013,2022,Lucas Digne,29,Aston Villa,Defender
-4542,991,2022,Lewis Cook,25,Bournemouth,Midfielder
-4543,282,2022,Chris Richards,22,Crystal Palace,Defender
-4544,1291,2022,Pablo Fornals,26,West Ham,Midfielder
-4545,1433,2022,Ryan Sessegnon,22,Tottenham,Midfielder
-4546,878,2022,Juan Larios,18,Southampton,Defender
-4547,1232,2022,Nathaniel Phillips,25,Liverpool,Defender
-4548,324,2022,Cristiano Ronaldo,37,Man Utd,Forward
-4549,540,2022,Frank Onyeka,24,Brentford,Midfielder
-4550,1237,2022,Neeskens Kebano,30,Fulham,Midfielder
-4551,1471,2022,Scott McKenna,25,Nottingham Forest,Defender
-4552,171,2022,Ben Johnson,22,West Ham,Defender
-4553,1127,2022,Matt Targett,26,Newcastle,Defender
-4554,273,2022,Cheikhou Kouyate,32,Nottingham Forest,Midfielder
-4555,693,2022,James Bree,24,Southampton,Defender
-4556,589,2022,Goncalo Guedes,25,Wolves,Forward
-4557,1319,2022,Pedro Neto,22,Wolves,Forward
-4558,1294,2022,Pablo Sarabia,30,Wolves,Midfielder
-4559,1576,2022,Theo Walcott,33,Southampton,Forward
-4560,1688,2022,Wout Weghorst,30,Man Utd,Forward
-4561,1376,2022,Ricardo Pereira,28,Leicester,Defender
-4562,952,2022,Kristoffer Ajer,24,Brentford,Defender
-4563,1368,2022,Remo Freuler,30,Nottingham Forest,Midfielder
-4564,1336,2022,Philippe Coutinho,30,Aston Villa,Midfielder
-4565,505,2022,Fabio Carvalho,19,Liverpool,Midfielder
-4566,403,2022,Denis Zakaria,25,Chelsea,Midfielder
-4567,1021,2022,Ludwig Augustinsson,28,Aston Villa,Defender
-4568,1535,2022,Steve Cook,31,Nottingham Forest,Defender
-4569,191,2022,Bertrand Traore,26,Aston Villa,Midfielder
-4570,1711,2022,Zanka,32,Brentford,Defender
-4571,1304,2022,Patrick Bamford,28,Leeds,Forward
-4572,451,2022,Edouard Mendy,30,Chelsea,Goalkeeper
-4573,51,2022,Alejandro Garnacho,18,Man Utd,Forward
-4574,748,2022,Jeremy Sarmiento,20,Brighton,Forward
-4575,936,2022,Kieffer Moore,30,Bournemouth,Forward
-4576,1357,2022,Raul Jimenez,31,Wolves,Forward
-4577,680,2022,Jaidon Anthony,22,Bournemouth,Forward
-4578,355,2022,Danny Ings,30,West Ham,Forward
-4579,652,2022,Isaac Price,18,Everton,Midfielder
-4580,1084,2022,Mark Travers,23,Bournemouth,Goalkeeper
-4581,1184,2022,Mikkel Damsgaard,22,Brentford,Midfielder
-4582,1106,2022,Mason Holgate,25,Everton,Defender
-4583,404,2022,Deniz Undav,26,Brighton,Forward
-4584,704,2022,James Milner,36,Liverpool,Midfielder
-4585,1564,2022,Takehiro Tomiyasu,23,Arsenal,Defender
-4586,715,2022,Jamie Vardy,35,Leicester,Forward
-4587,1555,2022,Stuart Armstrong,30,Southampton,Midfielder
-4588,192,2022,Billy Gilmour,21,Brighton,Midfielder
-4589,997,2022,Lewis Miley,16,Newcastle,Midfielder
-4590,256,2022,Cedric Soares,30,Fulham,Defender
-4591,305,2022,Cole Palmer,20,Man City,Midfielder
-4592,169,2022,Ben Godfrey,24,Everton,Defender
-4593,633,2022,Hwang Hee-Chan,26,Wolves,Forward
-4594,252,2022,Carlos Vinicius,27,Fulham,Forward
-4595,716,2022,Jan Bednarek,26,Aston Villa,Defender
-4596,24,2022,Adam Smith,31,Bournemouth,Defender
-4597,1456,2022,Samuel Edozie,19,Southampton,Midfielder
-4598,968,2022,Leander Dendoncker,27,Aston Villa,Midfielder
-4599,998,2022,Lewis O'Brien,23,Nottingham Forest,Midfielder
-4600,1215,2022,Nampalys Mendy,30,Leicester,Midfielder
-4601,507,2022,Fabio Vieira,22,Arsenal,Midfielder
-4602,84,2022,Alphonse Areola,29,West Ham,Goalkeeper
-4603,1387,2022,Rob Holding,26,Arsenal,Defender
-4604,1599,2022,Tom Cairney,31,Fulham,Midfielder
-4605,284,2022,Chris Wood,30,Nottingham Forest,Forward
-4606,457,2022,Elliot Anderson,19,Newcastle,Midfielder
-4607,1446,2022,Sam Greenwood,20,Leeds,Forward
-4608,345,2022,Daniel Iversen,25,Leicester,Goalkeeper
-4609,62,2022,Alex Oxlade Chamberlain,29,Liverpool,Midfielder
-4610,1230,2022,Nathaniel Clyne,31,Crystal Palace,Defender
-4611,284,2022,Chris Wood,30,Newcastle,Forward
-4612,139,2022,Armando Broja,20,Chelsea,Forward
-4613,1709,2022,Yves Bissouma,25,Tottenham,Midfielder
-4614,616,2022,Harry Toffolo,27,Nottingham Forest,Defender
-4615,510,2022,Facundo Buonanotte,17,Brighton,Midfielder
-4616,45,2022,Albert Sambi Lokonga,22,Arsenal,Midfielder
-4617,663,2022,Jack Colback,32,Nottingham Forest,Midfielder
-4618,1282,2022,Oriol Romeu,30,Southampton,Midfielder
-4619,1485,2022,Sekou Mara,20,Southampton,Forward
-4620,15,2022,Adam Armstrong,25,Southampton,Forward
-4621,895,2022,Kalvin Phillips,26,Man City,Midfielder
-4622,291,2022,Christian Pulisic,23,Chelsea,Midfielder
-4623,1673,2022,Will Hughes,27,Crystal Palace,Midfielder
-4624,1516,2022,Siriki Dembele,25,Bournemouth,Midfielder
-4625,346,2022,Daniel James,24,Fulham,Midfielder
-4626,18,2022,Adam Forshaw,30,Leeds,Midfielder
-4627,123,2022,Anthony Elanga,20,Man Utd,Forward
-4628,718,2022,Jan Paul van Hecke,22,Brighton,Defender
-4629,254,2022,Carney Chukwuemeka,18,Chelsea,Midfielder
-4630,940,2022,Kieran Tierney,25,Arsenal,Defender
-4631,124,2022,Anthony Gordon,21,Newcastle,Forward
-4632,203,2022,Boubacar Traore,21,Wolves,Midfielder
-4633,574,2022,Georginio Rutter,20,Leeds,Forward
-4634,909,2022,Keane Lewis-Potter,21,Brentford,Forward
-4635,412,2022,Diego Costa,33,Wolves,Forward
-4636,1491,2022,Sergio Gomez,21,Man City,Midfielder
-4637,1429,2022,Ryan Fraser,28,Newcastle,Midfielder
-4638,925,2022,Kevin Mbabu,27,Fulham,Defender
-4639,1025,2022,Luka Milivojevic,31,Crystal Palace,Midfielder
-4640,141,2022,Arnaut Danjuma,25,Tottenham,Forward
-4641,647,2022,Illia Zabarnyi,19,Bournemouth,Defender
-4642,1496,2022,Shandon Baptiste,24,Brentford,Midfielder
-4643,1076,2022,Marek Rodak,25,Fulham,Goalkeeper
-4644,1464,2022,Sasa Kalajdzic,25,Wolves,Forward
-4645,583,2022,Giulian Biancone,22,Nottingham Forest,Defender
-4646,639,2022,Ibrahima Diallo,23,Southampton,Midfielder
-4647,1568,2022,Tariq Lamptey,21,Brighton,Defender
-4648,1234,2022,Neal Maupay,26,Everton,Forward
-4649,1418,2022,Ruben Vinagre,23,Everton,Defender
-4650,405,2022,Dennis Praet,28,Leicester,Midfielder
-4651,729,2022,Javier Manquillo,28,Newcastle,Defender
-4652,435,2022,Donny van de Beek,25,Man Utd,Midfielder
-4653,511,2022,Facundo Pellistri,20,Man Utd,Midfielder
-4654,464,2022,Emile Smith Rowe,22,Arsenal,Midfielder
-4655,128,2022,Antoine Semenyo,22,Bournemouth,Forward
-4656,721,2022,Japhet Tanganga,23,Tottenham,Defender
-4657,1465,2022,Sasa Lukic,26,Fulham,Midfielder
-4658,738,2022,Jean-Philippe Mateta,25,Crystal Palace,Forward
-4659,777,2022,Joe Gelhardt,20,Leeds,Forward
-4660,1696,2022,Yasin Ayari,18,Brighton,Midfielder
-4661,753,2022,Jesse Lingard,29,Nottingham Forest,Midfielder
-4662,1297,2022,Pape Matar Sarr,19,Tottenham,Midfielder
-4663,673,2022,Jack Stephens,28,Southampton,Defender
-4664,458,2022,Ellis Simms,21,Everton,Forward
-4665,424,2022,Divin Mubama,17,West Ham,Forward
-4666,823,2022,Jonjo Shelvey,30,Nottingham Forest,Midfielder
-4667,1055,2022,Manuel Lanzini,29,West Ham,Midfielder
-4668,533,2022,Flynn Downes,23,West Ham,Midfielder
-4669,708,2022,James Tomkins,33,Crystal Palace,Defender
-4670,700,2022,James McArthur,34,Crystal Palace,Midfielder
-4671,1430,2022,Ryan Fredericks,29,Bournemouth,Defender
-4672,1451,2022,Saman Ghoddos,28,Brentford,Midfielder
-4673,1112,2022,Mateusz Klich,32,Leeds,Midfielder
-4674,1126,2022,Matt Ritchie,32,Newcastle,Midfielder
-4675,1602,2022,Tom Davies,24,Everton,Midfielder
-4676,1339,2022,Pierre-Emerick Aubameyang,33,Chelsea,Forward
-4677,1187,2022,Mislav Orsic,29,Southampton,Forward
-4678,1489,2022,Sergi Canos,25,Brentford,Forward
-4679,1440,2022,Salomon Rondon,32,Everton,Forward
-4680,241,2022,Calum Chambers,27,Aston Villa,Defender
-4681,946,2022,Kobbie Mainoo,17,Man Utd,Midfielder
-4682,681,2022,Jairo Riedewald,25,Crystal Palace,Midfielder
-4683,231,2022,Cafu,29,Nottingham Forest,Midfielder
-4684,411,2022,Diego Carlos,29,Aston Villa,Defender
-4685,166,2022,Ben Doak,16,Liverpool,Forward
-4686,1045,2022,Mads Bech,23,Brentford,Defender
-4687,732,2022,Jay Stansfield,19,Fulham,Forward
-4688,759,2022,Jhon Duran,18,Aston Villa,Forward
-4689,1152,2022,Maxwel Cornet,25,West Ham,Forward
-4690,1015,2022,Lucas Moura,30,Tottenham,Forward
-4691,1449,2022,Sam Surridge,24,Nottingham Forest,Forward
-4692,1581,2022,Thomas Cannon,19,Everton,Forward
-4693,672,2022,Jack Stacey,26,Bournemouth,Defender
-4694,966,2022,Layvin Kurzawa,29,Fulham,Defender
-4695,95,2022,Andre Ayew,32,Nottingham Forest,Forward
-4696,369,2022,David Brooks,25,Bournemouth,Midfielder
-4697,667,2022,Jack Hinshelwood,17,Brighton,Midfielder
-4698,274,2022,Chem Campbell,19,Wolves,Midfielder
-4699,786,2022,Joe Whitworth,18,Crystal Palace,Goalkeeper
-4700,1200,2022,Morgan Sanson,28,Aston Villa,Midfielder
-4701,174,2022,Ben Pearson,27,Bournemouth,Midfielder
-4702,1110,2022,Mateo Joseph,18,Leeds,Forward
-4703,690,2022,Jamaal Lascelles,28,Newcastle,Defender
-4704,197,2022,Bobby Clark,17,Liverpool,Midfielder
-4705,1049,2022,Malcolm Ebiowei,18,Crystal Palace,Midfielder
-4706,887,2022,Junior Stanislas,32,Bournemouth,Midfielder
-4707,605,2022,Halil Dervisoglu,22,Brentford,Forward
-4708,1277,2022,Omari Hutchinson,18,Chelsea,Midfielder
-4709,990,2022,Lewis Brunt,21,Leicester,Defender
-4710,310,2022,Connor Ronan,24,Wolves,Midfielder
-4711,313,2022,Conor Coventry,22,West Ham,Midfielder
-4712,380,2022,David Ozoh,17,Crystal Palace,Midfielder
-4713,463,2022,Emil Krafth,28,Newcastle,Defender
-4714,489,2022,Ethan Nwaneri,15,Arsenal,Midfielder
-4715,567,2022,George Abbott,17,Tottenham,Midfielder
-4716,1091,2022,Marquinhos,19,Arsenal,Forward
-4717,1226,2022,Nathan Redmond,28,Southampton,Midfielder
-4718,1631,2022,Tyrese Francois,22,Fulham,Midfielder
-4719,1217,2022,Naouirou Ahamada,20,Crystal Palace,Midfielder
-4720,426,2022,Djed Spence,22,Tottenham,Defender
-4721,780,2022,Joe Hodge,19,Wolves,Midfielder
-4722,466,2022,Emiliano Marcondes,27,Bournemouth,Midfielder
-4723,692,2022,Jamal Lowe,28,Bournemouth,Forward
-4724,242,2022,Cameron Archer,20,Aston Villa,Forward
-4725,59,2022,Alex McCarthy,32,Southampton,Goalkeeper
-4726,865,2022,Josh Onomah,25,Fulham,Midfielder
-4727,1037,2022,Luke Harris,17,Fulham,Midfielder
-4728,429,2022,Dominic Ballard,17,Southampton,Forward
-4729,1261,2022,Odeluga Offiah,19,Brighton,Defender
-4730,398,2022,Dele Alli,26,Everton,Midfielder
-4731,60,2022,Alex Mighten,20,Nottingham Forest,Forward
-4732,691,2022,Jamal Lewis,24,Newcastle,Defender
-4733,1151,2022,Maximo Perrone,19,Man City,Midfielder
-4734,897,2022,Kamari Doyle,17,Southampton,Midfielder
-4735,1288,2022,Owen Bevan,18,Bournemouth,Defender
-4736,1229,2022,Nathaniel Chalobah,27,Fulham,Midfielder
-4737,407,2022,Dexter Lembikisa,18,Wolves,Defender
-4738,246,2022,Cameron Peupion,19,Brighton,Midfielder
-4739,109,2022,Andrew Moran,18,Brighton,Midfielder
-4740,1497,2022,Shane Duffy,30,Fulham,Defender
-4741,1691,2022,Yan Valery,23,Southampton,Defender
+4279,152,2022,Asmir Begovic,35,Everton,Goalkeeper
+4280,935,2022,Kevin De Bruyne,31,Man City,Midfielder
+4281,1545,2022,Stefan Ortega,29,Man City,Goalkeeper
+4282,493,2022,Erling Haaland,22,Man City,Forward
+4283,622,2022,Harry Kane,29,Tottenham,Forward
+4284,223,2022,Bruno Fernandes,27,Man Utd,Midfielder
+4285,555,2022,Gabriel Jesus,25,Arsenal,Forward
+4286,954,2022,Kieran Trippier,31,Newcastle,Defender
+4287,230,2022,Bukayo Saka,20,Arsenal,Midfielder
+4288,1539,2022,Solly March,28,Brighton,Midfielder
+4289,675,2022,Jack Grealish,26,Man City,Midfielder
+4290,1114,2022,Martin Oedegaard,23,Arsenal,Midfielder
+4291,1419,2022,Rodri,26,Man City,Midfielder
+4292,557,2022,Gabriel Martinelli,21,Arsenal,Forward
+4293,670,2022,Ivan Toney,26,Brentford,Forward
+4294,809,2022,Joelinton,26,Newcastle,Forward
+4295,709,2022,James Maddison,25,Leicester,Midfielder
+4296,1421,2022,Rodrigo Bentancur,25,Tottenham,Midfielder
+4297,224,2022,Bruno Guimaraes,24,Newcastle,Midfielder
+4298,256,2022,Casemiro,30,Man Utd,Midfielder
+4299,1209,2022,Mohamed Salah,30,Liverpool,Forward
+4300,1349,2022,Phil Foden,22,Man City,Midfielder
+4301,655,2022,Ilkay Gundogan,31,Man City,Midfielder
+4302,1638,2022,Trent Alexander-Arnold,23,Liverpool,Defender
+4303,497,2022,Ethan Pinnock,29,Brentford,Defender
+4304,55,2022,Aleksandar Mitrovic,27,Fulham,Forward
+4305,1089,2022,Marcus Rashford,24,Man Utd,Forward
+4306,1381,2022,Reece James,22,Chelsea,Defender
+4307,1602,2022,Thomas Partey,29,Arsenal,Midfielder
+4308,521,2022,Felipe,33,Nottingham Forest,Defender
+4309,304,2022,Cody Gakpo,23,Liverpool,Forward
+4310,66,2022,Alexander Isak,22,Newcastle,Forward
+4311,73,2022,Alexis Mac Allister,23,Brighton,Midfielder
+4312,508,2022,Fabian Schar,30,Newcastle,Defender
+4313,774,2022,Joao Cancelo,28,Man City,Defender
+4314,1358,2022,Pierre-Emile Hoejbjerg,27,Tottenham,Midfielder
+4315,448,2022,Eberechi Eze,24,Crystal Palace,Midfielder
+4316,1404,2022,Riyad Mahrez,31,Man City,Forward
+4317,396,2022,Declan Rice,23,West Ham,Midfielder
+4318,228,2022,Bryan Mbeumo,23,Brentford,Midfielder
+4319,1721,2022,Yerry Mina,27,Everton,Defender
+4320,173,2022,Ben Mee,32,Brentford,Defender
+4321,912,2022,Kaoru Mitoma,25,Brighton,Midfielder
+4322,336,2022,Dan Bentley,29,Wolves,Goalkeeper
+4323,1319,2022,Pascal Gross,31,Brighton,Midfielder
+4324,446,2022,Dwight McNeil,22,Everton,Forward
+4325,1188,2022,Michael Olise,20,Crystal Palace,Midfielder
+4326,1703,2022,Willian,34,Fulham,Forward
+4327,983,2022,Leandro Trossard,27,Brighton,Forward
+4328,932,2022,Kenny Tete,26,Fulham,Defender
+4329,1597,2022,Thiago Silva,37,Chelsea,Defender
+4330,601,2022,Granit Xhaka,29,Arsenal,Midfielder
+4331,1111,2022,Martin Dubravka,33,Newcastle,Goalkeeper
+4332,717,2022,James Tarkowski,29,Everton,Defender
+4333,1036,2022,Luis Diaz,25,Liverpool,Forward
+4334,384,2022,David Raya,26,Brentford,Goalkeeper
+4335,1030,2022,Lucas Paqueta,25,West Ham,Midfielder
+4336,1672,2022,Virgil van Dijk,31,Liverpool,Defender
+4337,1292,2022,Ollie Watkins,26,Aston Villa,Forward
+4338,424,2022,Diogo Dalot,23,Man Utd,Defender
+4339,1339,2022,Pedro Porro,22,Tottenham,Defender
+4340,719,2022,James Ward-Prowse,27,Southampton,Midfielder
+4341,1435,2022,Ruben Neves,25,Wolves,Midfielder
+4342,1090,2022,Marcus Tavernier,23,Bournemouth,Midfielder
+4343,1540,2022,Son Heung-Min,30,Tottenham,Forward
+4344,1226,2022,N'Golo Kante,31,Chelsea,Midfielder
+4345,190,2022,Bernd Leno,30,Fulham,Goalkeeper
+4346,441,2022,Douglas Luiz,24,Aston Villa,Midfielder
+4347,779,2022,Joao Palhinha,27,Fulham,Midfielder
+4348,9,2022,Aaron Wan-Bissaka,24,Man Utd,Defender
+4349,78,2022,Alisson Becker,29,Liverpool,Goalkeeper
+4350,241,2022,Callum Wilson,30,Newcastle,Forward
+4351,1212,2022,Moises Caicedo,20,Brighton,Midfielder
+4352,1192,2022,Miguel Almiron,28,Newcastle,Midfielder
+4353,184,2022,Benoit Badiashile,21,Chelsea,Defender
+4354,1688,2022,Wesley Fofana,21,Leicester,Defender
+4355,291,2022,Christian Noergaard,28,Brentford,Midfielder
+4356,1052,2022,Luke Shaw,27,Man Utd,Defender
+4357,798,2022,Joe Willock,23,Newcastle,Midfielder
+4358,1009,2022,Lewis Hall,17,Chelsea,Defender
+4359,474,2022,Emiliano Martinez,29,Aston Villa,Goalkeeper
+4360,556,2022,Gabriel Magalhaes,24,Arsenal,Defender
+4361,1285,2022,Oleksandr Zinchenko,25,Arsenal,Defender
+4362,686,2022,Jacob Ramsey,21,Aston Villa,Midfielder
+4363,1412,2022,Roberto Firmino,30,Liverpool,Forward
+4364,1505,2022,Serge Aurier,29,Nottingham Forest,Defender
+4365,983,2022,Leandro Trossard,27,Arsenal,Forward
+4366,1021,2022,Lisandro Martinez,24,Man Utd,Defender
+4367,907,2022,Kalidou Koulibaly,31,Chelsea,Defender
+4368,1215,2022,Morgan Gibbs-White,22,Nottingham Forest,Midfielder
+4369,689,2022,Jadon Sancho,22,Man Utd,Forward
+4370,233,2022,Caglar Soyuncu,26,Leicester,Defender
+4371,136,2022,Antony,22,Man Utd,Forward
+4372,1184,2022,Michael Keane,29,Everton,Defender
+4373,58,2022,Alex Iwobi,26,Everton,Forward
+4374,773,2022,Joachim Andersen,26,Crystal Palace,Defender
+4375,1596,2022,Thiago Alcantara,31,Liverpool,Midfielder
+4376,1694,2022,Wilfried Zaha,29,Crystal Palace,Forward
+4377,1352,2022,Philip Billing,26,Bournemouth,Midfielder
+4378,815,2022,John McGinn,27,Aston Villa,Midfielder
+4379,1133,2022,Mathias Jensen,26,Brentford,Midfielder
+4380,733,2022,Jarrod Bowen,25,West Ham,Forward
+4381,933,2022,Kepa,27,Chelsea,Goalkeeper
+4382,189,2022,Bernardo Silva,28,Man City,Midfielder
+4383,1629,2022,Tomas Soucek,27,West Ham,Midfielder
+4384,81,2022,Allan Saint-Maximin,25,Newcastle,Forward
+4385,1274,2022,Noni Madueke,20,Chelsea,Forward
+4386,841,2022,Jordan Ayew,30,Crystal Palace,Forward
+4387,485,2022,Enzo Fernandez,21,Chelsea,Midfielder
+4388,819,2022,John Stones,28,Man City,Defender
+4389,1728,2022,Youri Tielemans,25,Leicester,Midfielder
+4390,324,2022,Cristian Romero,24,Tottenham,Defender
+4391,1433,2022,Ruben Dias,25,Man City,Defender
+4392,615,2022,Hamed Traore,22,Bournemouth,Midfielder
+4393,370,2022,Darwin Nunez,23,Liverpool,Forward
+4394,1343,2022,Pervis Estupinan,24,Brighton,Defender
+4395,437,2022,Dominic Solanke,24,Bournemouth,Forward
+4396,650,2022,Ibrahima Konate,23,Liverpool,Defender
+4397,177,2022,Ben White,24,Arsenal,Defender
+4398,117,2022,Andy Robertson,28,Liverpool,Defender
+4399,1210,2022,Mohammed Salisu,23,Southampton,Defender
+4400,1701,2022,William Saliba,21,Arsenal,Defender
+4401,469,2022,Emerson Royal,23,Tottenham,Defender
+4402,896,2022,Julio Enciso,18,Brighton,Forward
+4403,337,2022,Dan Burn,30,Newcastle,Defender
+4404,399,2022,Dejan Kulusevski,22,Tottenham,Midfielder
+4405,1261,2022,Neto,33,Bournemouth,Goalkeeper
+4406,1660,2022,Vicente Guaita,35,Crystal Palace,Goalkeeper
+4407,361,2022,Danny Welbeck,31,Brighton,Forward
+4408,1235,2022,Nathan Ake,27,Man City,Defender
+4409,905,2022,Kai Havertz,23,Chelsea,Midfielder
+4410,1654,2022,Tyrone Mings,29,Aston Villa,Defender
+4411,1579,2022,Sven Botman,22,Newcastle,Defender
+4412,131,2022,Antonee Robinson,25,Fulham,Defender
+4413,669,2022,Ivan Perisic,33,Tottenham,Midfielder
+4414,341,2022,Dango Ouattara,20,Bournemouth,Forward
+4415,708,2022,James Justin,24,Leicester,Defender
+4416,1366,2022,Raheem Sterling,27,Chelsea,Forward
+4417,425,2022,Diogo Jota,25,Liverpool,Forward
+4418,739,2022,Jason Steele,32,Brighton,Goalkeeper
+4419,1465,2022,Sam Johnstone,29,Crystal Palace,Goalkeeper
+4420,1644,2022,Tyler Adams,23,Leeds,Midfielder
+4421,106,2022,Andreas Pereira,26,Fulham,Midfielder
+4422,676,2022,Jack Harrison,25,Leeds,Midfielder
+4423,272,2022,Cheick Doucoure,22,Crystal Palace,Midfielder
+4424,1636,2022,Tosin Adarabioyo,24,Fulham,Defender
+4425,141,2022,Armel Bella-Kotchap,20,Southampton,Defender
+4426,62,2022,Alex Moreno,29,Aston Villa,Defender
+4427,1521,2022,Shea Charles,18,Man City,Midfielder
+4428,509,2022,Fabinho,28,Liverpool,Midfielder
+4429,1611,2022,Timothy Castagne,26,Leicester,Defender
+4430,354,2022,Danilo,21,Nottingham Forest,Midfielder
+4431,1138,2022,Matt Doherty,30,Tottenham,Defender
+4432,92,2022,Amadou Onana,21,Everton,Midfielder
+4433,1665,2022,Victor Lindelof,28,Man Utd,Defender
+4434,893,2022,Julian Alvarez,22,Man City,Forward
+4435,1263,2022,Nick Pope,30,Newcastle,Goalkeeper
+4436,955,2022,Kiernan Dewsbury-Hall,23,Leicester,Midfielder
+4437,1456,2022,Said Benrahma,27,West Ham,Forward
+4438,472,2022,Emiliano Buendia,25,Aston Villa,Midfielder
+4439,1123,2022,Mason Mount,23,Chelsea,Midfielder
+4440,288,2022,Christian Eriksen,30,Man Utd,Midfielder
+4441,154,2022,Aymeric Laporte,28,Man City,Defender
+4442,845,2022,Jordan Pickford,28,Everton,Goalkeeper
+4443,789,2022,Joe Gomez,25,Liverpool,Defender
+4444,968,2022,Kurt Zouma,27,West Ham,Defender
+4445,1073,2022,Marc Guehi,22,Crystal Palace,Defender
+4446,1420,2022,Rodrigo,31,Leeds,Forward
+4447,1384,2022,Reiss Nelson,22,Arsenal,Forward
+4448,1608,2022,Tim Ream,34,Fulham,Defender
+4449,1044,2022,Lukasz Fabianski,37,West Ham,Goalkeeper
+4450,1250,2022,Nayef Aguerd,26,West Ham,Defender
+4451,330,2022,Curtis Jones,21,Liverpool,Midfielder
+4452,500,2022,Evan Ferguson,17,Brighton,Forward
+4453,752,2022,Jefferson Lerma,27,Bournemouth,Midfielder
+4454,386,2022,David de Gea,31,Man Utd,Goalkeeper
+4455,726,2022,Jan Bednarek,26,Southampton,Defender
+4456,1320,2022,Pascal Struijk,23,Leeds,Defender
+4457,488,2022,Eric Dier,28,Tottenham,Defender
+4458,754,2022,Jeffrey Schlupp,29,Crystal Palace,Midfielder
+4459,628,2022,Harvey Barnes,24,Leicester,Midfielder
+4460,1709,2022,Wout Faes,24,Leicester,Defender
+4461,651,2022,Idrissa Gueye,32,Everton,Midfielder
+4462,1072,2022,Marc Cucurella,24,Chelsea,Defender
+4463,857,2022,Jorginho,30,Chelsea,Midfielder
+4464,808,2022,Joel Ward,32,Crystal Palace,Defender
+4465,1688,2022,Wesley Fofana,21,Chelsea,Defender
+4466,667,2022,Issa Diop,25,Fulham,Defender
+4467,1372,2022,Raphael Varane,29,Man Utd,Defender
+4468,1400,2022,Rico Henry,25,Brentford,Defender
+4469,1080,2022,Marcel Sabitzer,28,Man Utd,Midfielder
+4470,1494,2022,Sean Longstaff,24,Newcastle,Midfielder
+4471,1650,2022,Tyrell Malacia,23,Man Utd,Defender
+4472,1678,2022,Vladimir Coufal,30,West Ham,Defender
+4473,624,2022,Harry Souttar,23,Leicester,Defender
+4474,1166,2022,Maximilian Wober,24,Leeds,Defender
+4475,1674,2022,Vitaly Janelt,24,Brentford,Midfielder
+4476,166,2022,Ben Davies,29,Tottenham,Defender
+4477,1165,2022,Maximilian Kilman,25,Wolves,Defender
+4478,1129,2022,Matheus Cunha,23,Wolves,Forward
+4479,6,2022,Aaron Ramsdale,24,Arsenal,Goalkeeper
+4480,442,2022,Duje Caleta-Car,25,Southampton,Defender
+4481,775,2022,Joao Felix,22,Chelsea,Forward
+4482,1374,2022,Rasmus Kristensen,25,Leeds,Defender
+4483,435,2022,Dominic Calvert-Lewin,25,Everton,Forward
+4484,909,2022,Kamaldeen Sulemana,20,Southampton,Midfielder
+4485,1007,2022,Lewis Dunk,30,Brighton,Defender
+4486,1637,2022,Toti Gomes,23,Wolves,Defender
+4487,1069,2022,Manuel Akanji,27,Man City,Defender
+4488,1015,2022,Liam Cooper,30,Leeds,Defender
+4489,320,2022,Craig Dawson,32,Wolves,Defender
+4490,165,2022,Ben Chilwell,25,Chelsea,Defender
+4491,125,2022,Anthony Gordon,21,Everton,Forward
+4492,1417,2022,Robin Olsen,32,Aston Villa,Goalkeeper
+4493,1705,2022,Willy Boly,31,Nottingham Forest,Defender
+4494,402,2022,Demarai Gray,26,Everton,Forward
+4495,2,2022,Aaron Cresswell,32,West Ham,Defender
+4496,993,2022,Leon Bailey,25,Aston Villa,Midfielder
+4497,857,2022,Jorginho,30,Arsenal,Midfielder
+4498,1130,2022,Matheus Nunes,24,Wolves,Midfielder
+4499,698,2022,Jakub Kiwior,22,Arsenal,Defender
+4500,1252,2022,Neco Williams,21,Nottingham Forest,Defender
+4501,1023,2022,Lloyd Kelly,23,Bournemouth,Defender
+4502,807,2022,Joel Veltman,30,Brighton,Defender
+4503,203,2022,Boubacar Kamara,22,Aston Villa,Midfielder
+4504,271,2022,Che Adams,26,Southampton,Forward
+4505,127,2022,Anthony Martial,26,Man Utd,Forward
+4506,642,2022,Hugo Lloris,35,Tottenham,Goalkeeper
+4507,623,2022,Harry Maguire,29,Man Utd,Defender
+4508,1673,2022,Vitalii Mykolenko,23,Everton,Defender
+4509,1359,2022,Pontus Jansson,31,Brentford,Defender
+4510,282,2022,Chris Mepham,24,Bournemouth,Defender
+4511,248,2022,Caoimhin Kelleher,23,Liverpool,Goalkeeper
+4512,151,2022,Ashley Young,37,Aston Villa,Defender
+4513,1038,2022,Luis Sinisterra,23,Leeds,Forward
+4514,799,2022,Joe Worrall,25,Nottingham Forest,Defender
+4515,946,2022,Keylor Navas,35,Nottingham Forest,Goalkeeper
+4516,974,2022,Kyle Walker-Peters,25,Southampton,Defender
+4517,505,2022,Ezri Konsa,24,Aston Villa,Defender
+4518,393,2022,Dean Henderson,25,Nottingham Forest,Goalkeeper
+4519,842,2022,Jordan Henderson,32,Liverpool,Midfielder
+4520,1446,2022,Ryan Christie,27,Bournemouth,Midfielder
+4521,1401,2022,Rico Lewis,17,Man City,Defender
+4522,1153,2022,Matty Cash,25,Aston Villa,Defender
+4523,1427,2022,Romeo Lavia,18,Southampton,Midfielder
+4524,1434,2022,Ruben Loftus-Cheek,26,Chelsea,Midfielder
+4525,1493,2022,Seamus Coleman,33,Everton,Defender
+4526,357,2022,Danny Ings,30,Aston Villa,Forward
+4527,776,2022,Joao Gomes,21,Wolves,Midfielder
+4528,1046,2022,Luke Ayling,31,Leeds,Defender
+4529,1490,2022,Scott McTominay,25,Man Utd,Midfielder
+4530,981,2022,Leander Dendoncker,27,Wolves,Midfielder
+4531,784,2022,Joe Aribo,26,Southampton,Midfielder
+4532,155,2022,Ayoze Perez,29,Leicester,Forward
+4533,300,2022,Clement Lenglet,27,Tottenham,Defender
+4534,1001,2022,Levi Colwill,19,Brighton,Defender
+4535,1388,2022,Renan Lodi,24,Nottingham Forest,Defender
+4536,315,2022,Conor Gallagher,22,Chelsea,Midfielder
+4537,1543,2022,Stefan Bajcetic,17,Liverpool,Midfielder
+4538,973,2022,Kyle Walker,32,Man City,Defender
+4539,344,2022,Daniel Amartey,27,Leicester,Defender
+4540,1653,2022,Tyrick Mitchell,22,Crystal Palace,Defender
+4541,122,2022,Angelo Ogbonna,34,West Ham,Defender
+4542,1473,2022,Samuel Amo-Ameyaw,16,Southampton,Forward
+4543,865,2022,Jose Sa,29,Wolves,Goalkeeper
+4544,629,2022,Harvey Elliott,19,Liverpool,Midfielder
+4545,1086,2022,Marcos Senesi,25,Bournemouth,Defender
+4546,1215,2022,Morgan Gibbs-White,22,Wolves,Midfielder
+4547,26,2022,Adam Webster,27,Brighton,Defender
+4548,1067,2022,Manor Solomon,23,Fulham,Forward
+4549,1416,2022,Robin Koch,26,Leeds,Defender
+4550,260,2022,Cesar Azpilicueta,33,Chelsea,Defender
+4551,1377,2022,Rayan Ait-Nouri,21,Wolves,Defender
+4552,1137,2022,Matias Vina,24,Bournemouth,Defender
+4553,1723,2022,Yoane Wissa,25,Brentford,Midfielder
+4554,1242,2022,Nathan Patterson,20,Everton,Defender
+4555,1664,2022,Victor Kristiansen,19,Leicester,Defender
+4556,683,2022,Jack Stephens,28,Bournemouth,Defender
+4557,303,2022,Cody Drameh,20,Leeds,Defender
+4558,352,2022,Daniel Podence,26,Wolves,Midfielder
+4559,778,2022,Joao Moutinho,35,Wolves,Midfielder
+4560,587,2022,Gianluca Scamacca,23,West Ham,Forward
+4561,803,2022,Joel Matip,31,Liverpool,Defender
+4562,1599,2022,Thilo Kehrer,25,West Ham,Defender
+4563,1077,2022,Marc Roca,25,Leeds,Midfielder
+4564,1258,2022,Nelson Semedo,28,Wolves,Defender
+4565,620,2022,Harrison Reed,27,Fulham,Midfielder
+4566,42,2022,Ainsley Maitland-Niles,25,Southampton,Midfielder
+4567,251,2022,Carlos Alcaraz,19,Southampton,Midfielder
+4568,1691,2022,Wilfred Ndidi,25,Leicester,Midfielder
+4569,1582,2022,Taiwo Awoniyi,25,Nottingham Forest,Forward
+4570,205,2022,Boubakary Soumare,23,Leicester,Midfielder
+4571,1147,2022,Matthew Craig,19,Tottenham,Midfielder
+4572,219,2022,Brennan Johnson,21,Nottingham Forest,Forward
+4573,836,2022,Jonny Evans,34,Leicester,Defender
+4574,374,2022,David Datro Fofana,19,Chelsea,Forward
+4575,1189,2022,Michail Antonio,32,West Ham,Forward
+4576,1238,2022,Nathan Collins,21,Wolves,Defender
+4577,1592,2022,Tete,22,Leicester,Forward
+4578,1208,2022,Mohamed Elyounoussi,28,Southampton,Midfielder
+4579,29,2022,Adama Traore,26,Wolves,Forward
+4580,549,2022,Fred,29,Man Utd,Midfielder
+4581,1222,2022,Moussa Niakhate,26,Nottingham Forest,Defender
+4582,11,2022,Abdoulaye Doucoure,29,Everton,Midfielder
+4583,964,2022,Kostas Tsimikas,26,Liverpool,Defender
+4584,1127,2022,Mateo Kovacic,28,Chelsea,Midfielder
+4585,1693,2022,Wilfried Gnonto,18,Leeds,Forward
+4586,1297,2022,Orel Mangala,24,Nottingham Forest,Midfielder
+4587,548,2022,Fraser Forster,34,Tottenham,Goalkeeper
+4588,1054,2022,Lyanco,25,Southampton,Defender
+4589,388,2022,Davinson Sanchez,26,Tottenham,Defender
+4590,924,2022,Kelechi Iheanacho,25,Leicester,Forward
+4591,1639,2022,Trevoh Chalobah,23,Chelsea,Defender
+4592,850,2022,Jordan Zemura,22,Bournemouth,Defender
+4593,417,2022,Diego Llorente,29,Leeds,Defender
+4594,1423,2022,Romain Perraud,24,Southampton,Defender
+4595,360,2022,Danny Ward,29,Leicester,Goalkeeper
+4596,1398,2022,Richarlison,25,Tottenham,Forward
+4597,199,2022,Bobby De Cordova-Reid,29,Fulham,Forward
+4598,326,2022,Crysencio Summerville,20,Leeds,Forward
+4599,1454,2022,Ryan Yates,24,Nottingham Forest,Midfielder
+4600,838,2022,Jonny Otto,28,Wolves,Defender
+4601,1221,2022,Moussa Djenepo,24,Southampton,Midfielder
+4602,1071,2022,Marc Albrighton,32,Leicester,Midfielder
+4603,1093,2022,Mario Lemina,28,Wolves,Midfielder
+4604,22,2022,Adam Lallana,34,Brighton,Midfielder
+4605,3,2022,Aaron Hickey,20,Brentford,Defender
+4606,1326,2022,Patson Daka,23,Leicester,Forward
+4607,612,2022,Hakim Ziyech,29,Chelsea,Midfielder
+4608,942,2022,Kevin Schade,20,Brentford,Midfielder
+4609,313,2022,Conor Coady,29,Everton,Defender
+4610,1614,2022,Tino Livramento,19,Southampton,Defender
+4611,872,2022,Josh Dasilva,23,Brentford,Midfielder
+4612,796,2022,Joe Rothwell,27,Bournemouth,Midfielder
+4613,348,2022,Daniel James,24,Leeds,Midfielder
+4614,452,2022,Ederson,29,Man City,Goalkeeper
+4615,449,2022,Eddie Nketiah,23,Arsenal,Forward
+4616,1330,2022,Paul Onuachu,28,Southampton,Forward
+4617,572,2022,Gavin Bazunu,20,Southampton,Goalkeeper
+4618,626,2022,Harry Wilson,25,Fulham,Midfielder
+4619,685,2022,Jacob Murphy,27,Newcastle,Midfielder
+4620,1061,2022,Mads Roerslev,23,Brentford,Defender
+4621,706,2022,James Garner,21,Everton,Midfielder
+4622,641,2022,Hugo Bueno,19,Wolves,Defender
+4623,1280,2022,Odsonne Edouard,24,Crystal Palace,Forward
+4624,1053,2022,Luke Thomas,21,Leicester,Defender
+4625,227,2022,Bryan Gil,21,Tottenham,Forward
+4626,1681,2022,Wayne Hennessey,35,Nottingham Forest,Goalkeeper
+4627,46,2022,Albert Sambi Lokonga,22,Crystal Palace,Midfielder
+4628,477,2022,Emmanuel Dennis,24,Nottingham Forest,Forward
+4629,656,2022,Illan Meslier,22,Leeds,Goalkeeper
+4630,1410,2022,Robert Sanchez,24,Brighton,Goalkeeper
+4631,320,2022,Craig Dawson,32,West Ham,Defender
+4632,1690,2022,Weston McKennie,24,Leeds,Midfielder
+4633,806,2022,Joel Robles,32,Leeds,Goalkeeper
+4634,1290,2022,Oliver Skipp,21,Tottenham,Midfielder
+4635,467,2022,Emerson,28,West Ham,Defender
+4636,898,2022,Junior Firpo,26,Leeds,Defender
+4637,218,2022,Brenden Aaronson,21,Leeds,Midfielder
+4638,484,2022,Enock Mwepu,24,Brighton,Midfielder
+4639,1027,2022,Lucas Digne,29,Aston Villa,Defender
+4640,1005,2022,Lewis Cook,25,Bournemouth,Midfielder
+4641,283,2022,Chris Richards,22,Crystal Palace,Defender
+4642,1309,2022,Pablo Fornals,26,West Ham,Midfielder
+4643,1451,2022,Ryan Sessegnon,22,Tottenham,Midfielder
+4644,890,2022,Juan Larios,18,Southampton,Defender
+4645,1249,2022,Nathaniel Phillips,25,Liverpool,Defender
+4646,325,2022,Cristiano Ronaldo,37,Man Utd,Forward
+4647,547,2022,Frank Onyeka,24,Brentford,Midfielder
+4648,1254,2022,Neeskens Kebano,30,Fulham,Midfielder
+4649,1489,2022,Scott McKenna,25,Nottingham Forest,Defender
+4650,172,2022,Ben Johnson,22,West Ham,Defender
+4651,1143,2022,Matt Targett,26,Newcastle,Defender
+4652,274,2022,Cheikhou Kouyate,32,Nottingham Forest,Midfielder
+4653,703,2022,James Bree,24,Southampton,Defender
+4654,597,2022,Goncalo Guedes,25,Wolves,Forward
+4655,1337,2022,Pedro Neto,22,Wolves,Forward
+4656,1312,2022,Pablo Sarabia,30,Wolves,Midfielder
+4657,1595,2022,Theo Walcott,33,Southampton,Forward
+4658,1710,2022,Wout Weghorst,30,Man Utd,Forward
+4659,1394,2022,Ricardo Pereira,28,Leicester,Defender
+4660,965,2022,Kristoffer Ajer,24,Brentford,Defender
+4661,1386,2022,Remo Freuler,30,Nottingham Forest,Midfielder
+4662,1354,2022,Philippe Coutinho,30,Aston Villa,Midfielder
+4663,512,2022,Fabio Carvalho,19,Liverpool,Midfielder
+4664,407,2022,Denis Zakaria,25,Chelsea,Midfielder
+4665,1035,2022,Ludwig Augustinsson,28,Aston Villa,Defender
+4666,1554,2022,Steve Cook,31,Nottingham Forest,Defender
+4667,192,2022,Bertrand Traore,26,Aston Villa,Midfielder
+4668,1733,2022,Zanka,32,Brentford,Defender
+4669,1322,2022,Patrick Bamford,28,Leeds,Forward
+4670,457,2022,Edouard Mendy,30,Chelsea,Goalkeeper
+4671,52,2022,Alejandro Garnacho,18,Man Utd,Forward
+4672,759,2022,Jeremy Sarmiento,20,Brighton,Forward
+4673,949,2022,Kieffer Moore,30,Bournemouth,Forward
+4674,1375,2022,Raul Jimenez,31,Wolves,Forward
+4675,690,2022,Jaidon Anthony,22,Bournemouth,Forward
+4676,357,2022,Danny Ings,30,West Ham,Forward
+4677,662,2022,Isaac Price,18,Everton,Midfielder
+4678,1099,2022,Mark Travers,23,Bournemouth,Goalkeeper
+4679,1200,2022,Mikkel Damsgaard,22,Brentford,Midfielder
+4680,1122,2022,Mason Holgate,25,Everton,Defender
+4681,408,2022,Deniz Undav,26,Brighton,Forward
+4682,714,2022,James Milner,36,Liverpool,Midfielder
+4683,1583,2022,Takehiro Tomiyasu,23,Arsenal,Defender
+4684,725,2022,Jamie Vardy,35,Leicester,Forward
+4685,1574,2022,Stuart Armstrong,30,Southampton,Midfielder
+4686,193,2022,Billy Gilmour,21,Brighton,Midfielder
+4687,1011,2022,Lewis Miley,16,Newcastle,Midfielder
+4688,257,2022,Cedric Soares,30,Fulham,Defender
+4689,306,2022,Cole Palmer,20,Man City,Midfielder
+4690,170,2022,Ben Godfrey,24,Everton,Defender
+4691,643,2022,Hwang Hee-Chan,26,Wolves,Forward
+4692,253,2022,Carlos Vinicius,27,Fulham,Forward
+4693,726,2022,Jan Bednarek,26,Aston Villa,Defender
+4694,25,2022,Adam Smith,31,Bournemouth,Defender
+4695,1474,2022,Samuel Edozie,19,Southampton,Midfielder
+4696,981,2022,Leander Dendoncker,27,Aston Villa,Midfielder
+4697,1012,2022,Lewis O'Brien,23,Nottingham Forest,Midfielder
+4698,1232,2022,Nampalys Mendy,30,Leicester,Midfielder
+4699,1225,2022,Mykhailo Mudryk,21,Chelsea,Midfielder
+4700,514,2022,Fabio Vieira,22,Arsenal,Midfielder
+4701,85,2022,Alphonse Areola,29,West Ham,Goalkeeper
+4702,1405,2022,Rob Holding,26,Arsenal,Defender
+4703,1618,2022,Tom Cairney,31,Fulham,Midfielder
+4704,285,2022,Chris Wood,30,Nottingham Forest,Forward
+4705,463,2022,Elliot Anderson,19,Newcastle,Midfielder
+4706,1464,2022,Sam Greenwood,20,Leeds,Forward
+4707,347,2022,Daniel Iversen,25,Leicester,Goalkeeper
+4708,63,2022,Alex Oxlade Chamberlain,29,Liverpool,Midfielder
+4709,1247,2022,Nathaniel Clyne,31,Crystal Palace,Defender
+4710,285,2022,Chris Wood,30,Newcastle,Forward
+4711,140,2022,Armando Broja,20,Chelsea,Forward
+4712,1731,2022,Yves Bissouma,25,Tottenham,Midfielder
+4713,625,2022,Harry Toffolo,27,Nottingham Forest,Defender
+4714,364,2022,Darko Gyabi,18,Leeds,Midfielder
+4715,517,2022,Facundo Buonanotte,17,Brighton,Midfielder
+4716,46,2022,Albert Sambi Lokonga,22,Arsenal,Midfielder
+4717,673,2022,Jack Colback,32,Nottingham Forest,Midfielder
+4718,1299,2022,Oriol Romeu,30,Southampton,Midfielder
+4719,1503,2022,Sekou Mara,20,Southampton,Forward
+4720,15,2022,Adam Armstrong,25,Southampton,Forward
+4721,908,2022,Kalvin Phillips,26,Man City,Midfielder
+4722,292,2022,Christian Pulisic,23,Chelsea,Midfielder
+4723,1695,2022,Will Hughes,27,Crystal Palace,Midfielder
+4724,1534,2022,Siriki Dembele,25,Bournemouth,Midfielder
+4725,348,2022,Daniel James,24,Fulham,Midfielder
+4726,19,2022,Adam Forshaw,30,Leeds,Midfielder
+4727,124,2022,Anthony Elanga,20,Man Utd,Forward
+4728,728,2022,Jan Paul van Hecke,22,Brighton,Defender
+4729,255,2022,Carney Chukwuemeka,18,Chelsea,Midfielder
+4730,953,2022,Kieran Tierney,25,Arsenal,Defender
+4731,125,2022,Anthony Gordon,21,Newcastle,Forward
+4732,204,2022,Boubacar Traore,21,Wolves,Midfielder
+4733,582,2022,Georginio Rutter,20,Leeds,Forward
+4734,922,2022,Keane Lewis-Potter,21,Brentford,Forward
+4735,416,2022,Diego Costa,33,Wolves,Forward
+4736,1509,2022,Sergio Gomez,21,Man City,Midfielder
+4737,1447,2022,Ryan Fraser,28,Newcastle,Midfielder
+4738,938,2022,Kevin Mbabu,27,Fulham,Defender
+4739,1039,2022,Luka Milivojevic,31,Crystal Palace,Midfielder
+4740,142,2022,Arnaut Danjuma,25,Tottenham,Forward
+4741,657,2022,Illia Zabarnyi,19,Bournemouth,Defender
+4742,1514,2022,Shandon Baptiste,24,Brentford,Midfielder
+4743,1091,2022,Marek Rodak,25,Fulham,Goalkeeper
+4744,1482,2022,Sasa Kalajdzic,25,Wolves,Forward
+4745,591,2022,Giulian Biancone,22,Nottingham Forest,Defender
+4746,649,2022,Ibrahima Diallo,23,Southampton,Midfielder
+4747,1587,2022,Tariq Lamptey,21,Brighton,Defender
+4748,1251,2022,Neal Maupay,26,Everton,Forward
+4749,1436,2022,Ruben Vinagre,23,Everton,Defender
+4750,609,2022,Gustavo Scarpa,28,Nottingham Forest,Midfielder
+4751,409,2022,Dennis Praet,28,Leicester,Midfielder
+4752,740,2022,Javier Manquillo,28,Newcastle,Defender
+4753,440,2022,Donny van de Beek,25,Man Utd,Midfielder
+4754,518,2022,Facundo Pellistri,20,Man Utd,Midfielder
+4755,471,2022,Emile Smith Rowe,22,Arsenal,Midfielder
+4756,129,2022,Antoine Semenyo,22,Bournemouth,Forward
+4757,731,2022,Japhet Tanganga,23,Tottenham,Defender
+4758,1483,2022,Sasa Lukic,26,Fulham,Midfielder
+4759,749,2022,Jean-Philippe Mateta,25,Crystal Palace,Forward
+4760,788,2022,Joe Gelhardt,20,Leeds,Forward
+4761,1718,2022,Yasin Ayari,18,Brighton,Midfielder
+4762,764,2022,Jesse Lingard,29,Nottingham Forest,Midfielder
+4763,1315,2022,Pape Matar Sarr,19,Tottenham,Midfielder
+4764,683,2022,Jack Stephens,28,Southampton,Defender
+4765,465,2022,Ellis Simms,21,Everton,Forward
+4766,428,2022,Divin Mubama,17,West Ham,Forward
+4767,834,2022,Jonjo Shelvey,30,Nottingham Forest,Midfielder
+4768,1228,2022,Naby Keita,27,Liverpool,Midfielder
+4769,1070,2022,Manuel Lanzini,29,West Ham,Midfielder
+4770,540,2022,Flynn Downes,23,West Ham,Midfielder
+4771,718,2022,James Tomkins,33,Crystal Palace,Defender
+4772,710,2022,James McArthur,34,Crystal Palace,Midfielder
+4773,630,2022,Harvey White,20,Tottenham,Midfielder
+4774,1448,2022,Ryan Fredericks,29,Bournemouth,Defender
+4775,1469,2022,Saman Ghoddos,28,Brentford,Midfielder
+4776,1128,2022,Mateusz Klich,32,Leeds,Midfielder
+4777,1142,2022,Matt Ritchie,32,Newcastle,Midfielder
+4778,1621,2022,Tom Davies,24,Everton,Midfielder
+4779,1357,2022,Pierre-Emerick Aubameyang,33,Chelsea,Forward
+4780,1203,2022,Mislav Orsic,29,Southampton,Forward
+4781,1507,2022,Sergi Canos,25,Brentford,Forward
+4782,1458,2022,Salomon Rondon,32,Everton,Forward
+4783,242,2022,Calum Chambers,27,Aston Villa,Defender
+4784,959,2022,Kobbie Mainoo,17,Man Utd,Midfielder
+4785,691,2022,Jairo Riedewald,25,Crystal Palace,Midfielder
+4786,232,2022,Cafu,29,Nottingham Forest,Midfielder
+4787,415,2022,Diego Carlos,29,Aston Villa,Defender
+4788,167,2022,Ben Doak,16,Liverpool,Forward
+4789,1059,2022,Mads Bech,23,Brentford,Defender
+4790,743,2022,Jay Stansfield,19,Fulham,Forward
+4791,770,2022,Jhon Duran,18,Aston Villa,Forward
+4792,1168,2022,Maxwel Cornet,25,West Ham,Forward
+4793,1029,2022,Lucas Moura,30,Tottenham,Forward
+4794,1467,2022,Sam Surridge,24,Nottingham Forest,Forward
+4795,1600,2022,Thomas Cannon,19,Everton,Forward
+4796,682,2022,Jack Stacey,26,Bournemouth,Defender
+4797,979,2022,Layvin Kurzawa,29,Fulham,Defender
+4798,96,2022,Andre Ayew,32,Nottingham Forest,Forward
+4799,372,2022,David Brooks,25,Bournemouth,Midfielder
+4800,677,2022,Jack Hinshelwood,17,Brighton,Midfielder
+4801,1207,2022,Mohamed Elneny,30,Arsenal,Midfielder
+4802,275,2022,Chem Campbell,19,Wolves,Midfielder
+4803,797,2022,Joe Whitworth,18,Crystal Palace,Goalkeeper
+4804,1216,2022,Morgan Sanson,28,Aston Villa,Midfielder
+4805,175,2022,Ben Pearson,27,Bournemouth,Midfielder
+4806,1126,2022,Mateo Joseph,18,Leeds,Forward
+4807,700,2022,Jamaal Lascelles,28,Newcastle,Defender
+4808,198,2022,Bobby Clark,17,Liverpool,Midfielder
+4809,1063,2022,Malcolm Ebiowei,18,Crystal Palace,Midfielder
+4810,900,2022,Junior Stanislas,32,Bournemouth,Midfielder
+4811,614,2022,Halil Dervisoglu,22,Brentford,Forward
+4812,1294,2022,Omari Hutchinson,18,Chelsea,Midfielder
+4813,1004,2022,Lewis Brunt,21,Leicester,Defender
+4814,311,2022,Connor Ronan,24,Wolves,Midfielder
+4815,314,2022,Conor Coventry,22,West Ham,Midfielder
+4816,383,2022,David Ozoh,17,Crystal Palace,Midfielder
+4817,470,2022,Emil Krafth,28,Newcastle,Defender
+4818,496,2022,Ethan Nwaneri,15,Arsenal,Midfielder
+4819,575,2022,George Abbott,17,Tottenham,Midfielder
+4820,1106,2022,Marquinhos,19,Arsenal,Forward
+4821,1243,2022,Nathan Redmond,28,Southampton,Midfielder
+4822,1652,2022,Tyrese Francois,22,Fulham,Midfielder
+4823,1234,2022,Naouirou Ahamada,20,Crystal Palace,Midfielder
+4824,430,2022,Djed Spence,22,Tottenham,Defender
+4825,791,2022,Joe Hodge,19,Wolves,Midfielder
+4826,473,2022,Emiliano Marcondes,27,Bournemouth,Midfielder
+4827,702,2022,Jamal Lowe,28,Bournemouth,Forward
+4828,243,2022,Cameron Archer,20,Aston Villa,Forward
+4829,60,2022,Alex McCarthy,32,Southampton,Goalkeeper
+4830,877,2022,Josh Onomah,25,Fulham,Midfielder
+4831,1051,2022,Luke Harris,17,Fulham,Midfielder
+4832,434,2022,Dominic Ballard,17,Southampton,Forward
+4833,1278,2022,Odeluga Offiah,19,Brighton,Defender
+4834,401,2022,Dele Alli,26,Everton,Midfielder
+4835,61,2022,Alex Mighten,20,Nottingham Forest,Forward
+4836,701,2022,Jamal Lewis,24,Newcastle,Defender
+4837,1167,2022,Maximo Perrone,19,Man City,Midfielder
+4838,910,2022,Kamari Doyle,17,Southampton,Midfielder
+4839,1305,2022,Owen Bevan,18,Bournemouth,Defender
+4840,1246,2022,Nathaniel Chalobah,27,Fulham,Midfielder
+4841,411,2022,Dexter Lembikisa,18,Wolves,Defender
+4842,247,2022,Cameron Peupion,19,Brighton,Midfielder
+4843,110,2022,Andrew Moran,18,Brighton,Midfielder
+4844,1515,2022,Shane Duffy,30,Fulham,Defender
+4845,1713,2022,Yan Valery,23,Southampton,Defender
