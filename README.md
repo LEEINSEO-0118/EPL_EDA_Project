@@ -3,14 +3,11 @@
 잉글랜드 프리미어 선수들의 시즌 별 스탯과 연봉 데이터 분석
 
 ## 주요 파일
-* crwaling(file)
-    * [data_crawling.py](https://github.com/LEEINSEO-0118/EPL_EDA_Project/blob/main/crawling/data_crawling.py)  
-    선수 스탯 사이트 크롤링
+* crawling
+    * [data_crawling.py - 선수 스탯 사이트 크롤링](https://github.com/LEEINSEO-0118/EPL_EDA_Project/blob/main/crawling/data_crawling.py)  
 * eda
-    * [EDA_epl_data.ipynb](https://github.com/LEEINSEO-0118/EPL_EDA_Project/blob/main/EDA_epl_data.ipynb)  
-    선수 스탯과 연봉 데이터 분석 및 시각화
-    * [EDA_with_team_code.ipynb](https://github.com/LEEINSEO-0118/EPL_EDA_Project/blob/main/EDA_with_team_code.ipynb)  
-    팀원들과 통일된 데이터 구조를 통한 추가 데이터 분석 및 시각화
+    * [EDA_epl_data.ipynb - 선수 스탯과 연봉 데이터 분석 및 시각화](https://github.com/LEEINSEO-0118/EPL_EDA_Project/blob/main/EDA_epl_data.ipynb)  
+    * [EDA_with_team_code.ipynb - 팀원들과 통일된 데이터 구조를 통한 추가 데이터 분석 및 시각화](https://github.com/LEEINSEO-0118/EPL_EDA_Project/blob/main/EDA_with_team_code.ipynb)  
 
 ## 대쉬보드
 
