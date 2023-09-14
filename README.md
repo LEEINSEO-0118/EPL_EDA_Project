@@ -1,5 +1,5 @@
 ![EPL_LOGO](https://www.premierleague.com/resources/rebrand/v7.129.0/i/elements/pl-main-logo.png)
-# EPL_EDA_Project
+# EPL_EDA_Project (Team Project)
 잉글랜드 프리미어 선수들의 시즌 별 스탯과 연봉 데이터 분석
 
 ## 주요 파일
